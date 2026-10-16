@@ -64,7 +64,7 @@
     "lat": 34.0159887,
     "lon": -6.8368562,
     "address": "",
-    "description": "",
+    "description": "Альтернатива основному маршруту. ",
     "coordinate_source": "OpenStreetMap way/156426654",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0159887%2C-6.8368562"
@@ -218,7 +218,7 @@
     "lat": 34.02648,
     "lon": -6.834366,
     "address": "11 Rue Moulay Brahim, médina",
-    "description": "186,65 MAD / 22–23.11 / 1 взрослый, 1 ночь",
+    "description": "Альтернатива основному маршруту. Альтернативный маршрут: 186,65 MAD / 22–23.11 / 1 взрослый, 1 ночь",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0264800%2C-6.8343660"
@@ -232,7 +232,7 @@
     "lat": 34.027202,
     "lon": -6.833591,
     "address": "66 Impasse Attara, Rue des Consuls",
-    "description": "241,55 MAD / 22–23.11 / 1 взрослый, 1 ночь",
+    "description": "Альтернатива основному маршруту. Альтернативный маршрут: 241,55 MAD / 22–23.11 / 1 взрослый, 1 ночь",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0272020%2C-6.8335910"
@@ -246,7 +246,7 @@
     "lat": 34.02364,
     "lon": -6.841425,
     "address": "43 Rue Marassa, Bab El Had",
-    "description": "От 130 MAD / койка по путеводителю; +20 MAD налог по Hostelworld. 22–23.11 запросить",
+    "description": "Альтернатива основному маршруту. Альтернативный маршрут: От 130 MAD / койка по путеводителю; +20 MAD налог по Hostelworld. 22–23.11 запросить",
     "coordinate_source": "Hostelling International: официальный pin 34.02364,-6.841425",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0236400%2C-6.8414250"
@@ -260,7 +260,7 @@
     "lat": 34.059468,
     "lon": -4.978931,
     "address": "1 Derb Arset Bennis, Douh / Batha",
-    "description": "151,52 MAD / 23–24.11 / 1 взрослый, 1 ночь",
+    "description": "План 140–200 MAD / 22–23.11 / 1 человек; свежую цену запросить",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0594680%2C-4.9789310"
@@ -274,7 +274,7 @@
     "lat": 34.063325,
     "lon": -4.973754,
     "address": "31 Aqbet Zerka Quetanine, Rcif",
-    "description": "120,78 MAD / 23–24.11 / 1 взрослый, 1 ночь",
+    "description": "План 120–180 MAD / 22–23.11 / 1 человек; завтрак и налоги уточнить",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0633250%2C-4.9737540"
@@ -288,7 +288,7 @@
     "lat": 31.0970079,
     "lon": -4.0104943,
     "address": "Merzouga Main Street, центр посёлка",
-    "description": "Ориентир 100–180 MAD / человек / ночь; цены на 25–26.11 не получены",
+    "description": "Ориентир 100–180 MAD / человек / ночь; цены на 24–25.11 не получены",
     "coordinate_source": "OpenStreetMap / публичный адрес",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.0970079%2C-4.0104943"
@@ -302,7 +302,7 @@
     "lat": 31.0962625,
     "lon": -4.0104219,
     "address": "3XWQ+GR4, N13, Merzouga",
-    "description": "Ориентир 150–250 MAD / ночь; запросить цену на 25–26.11",
+    "description": "Ориентир 150–250 MAD / ночь; запросить цену на 24–25.11",
     "coordinate_source": "OpenStreetMap / публичный адрес",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.0962625%2C-4.0104219"
@@ -316,7 +316,7 @@
     "lat": 31.578179,
     "lon": -5.586591,
     "address": "Tizgui, R703, долина Тодра",
-    "description": "180 MAD / кровать / ночь с завтраком — публичный прямой тариф; 26–27.11 запросить",
+    "description": "180 MAD / кровать / ночь с завтраком — опубликованный прямой тариф; 360 MAD за 25–27.11 до подтверждения налогов",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.5781790%2C-5.5865910"
@@ -330,7 +330,7 @@
     "lat": 31.57859,
     "lon": -5.587771,
     "address": "Tizgui, R703, HCH7+G2, Tinghir",
-    "description": "329,39 MAD / 26–27.11 / 1 взрослый, 1 ночь",
+    "description": "План 300–400 MAD / отдельный номер / ночь; цену на 25–27.11 запросить",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.5785900%2C-5.5877710"
@@ -456,7 +456,7 @@
     "lat": 34.0316566,
     "lon": -6.8358475,
     "address": "",
-    "description": "",
+    "description": "Альтернатива основному маршруту. ",
     "coordinate_source": "OpenStreetMap node/2872767498",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0316566%2C-6.8358475"
@@ -470,7 +470,7 @@
     "lat": 34.0241489,
     "lon": -6.8227957,
     "address": "",
-    "description": "",
+    "description": "Альтернатива основному маршруту. ",
     "coordinate_source": "OpenStreetMap way/253426261",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0241489%2C-6.8227957"
@@ -484,7 +484,7 @@
     "lat": 34.0337431,
     "lon": -6.837624,
     "address": "",
-    "description": "",
+    "description": "Альтернатива основному маршруту. ",
     "coordinate_source": "OpenStreetMap way/277429186",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0337431%2C-6.8376240"
@@ -498,7 +498,7 @@
     "lat": 34.0070329,
     "lon": -6.8215994,
     "address": "",
-    "description": "",
+    "description": "Альтернатива основному маршруту. ",
     "coordinate_source": "OpenStreetMap way/190237527",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0070329%2C-6.8215994"
@@ -806,7 +806,7 @@
     "lat": 34.0267279,
     "lon": -6.8339196,
     "address": "23 Rue Moulay Brahim, médina",
-    "description": "Тажин ягнёнка с черносливом; пастилла по наличию. Не заказывать везде один и тот же тажин.; бюджет 150–300 MAD/чел., рабочий резерв",
+    "description": "Альтернатива основному маршруту. Тажин ягнёнка с черносливом; пастилла по наличию. Не заказывать везде один и тот же тажин.; бюджет 150–300 MAD/чел., рабочий резерв",
     "coordinate_source": "OpenStreetMap node/5890468189",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0267279%2C-6.8339196"
@@ -862,7 +862,7 @@
     "lat": 31.6359916,
     "lon": -8.0133642,
     "address": "55 Boulevard Mohamed Zerktouni, Guéliz",
-    "description": "Ассорти марокканских салатов на двоих; пастилла или ягнёнок.; бюджет 300–600 MAD/чел. без алкоголя, резерв",
+    "description": "Небольшая порция марокканских салатов; пастилла или ягнёнок. Уточнить размер блюда на одного.; бюджет 300–600 MAD/чел. без алкоголя, резерв",
     "coordinate_source": "OpenStreetMap node/519144892",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.6359916%2C-8.0133642"
@@ -932,7 +932,7 @@
     "lat": 34.02481,
     "lon": -6.82626,
     "address": "",
-    "description": "Название, лицензия и часы не подтверждены. Это картографический кандидат, не рекомендация отдавать деньги без проверки вывески и квитанции.",
+    "description": "Альтернатива основному маршруту. Название, лицензия и часы не подтверждены. Это картографический кандидат, не рекомендация отдавать деньги без проверки вывески и квитанции.",
     "coordinate_source": "OpenStreetMap node/11383415569",
     "precision": "ориентир / требует подтверждения",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0248100%2C-6.8262600"
