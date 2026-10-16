@@ -106,7 +106,7 @@
     "lat": 31.0987556,
     "lon": -4.0173168,
     "address": "",
-    "description": "По прибытии спросить, здесь ли садиться завтра в 07:30, и сохранить фактическую точку. Метка агентства не заменяет указание водителя.",
+    "description": "По прибытии спросить, здесь ли садиться 26.11 в 07:30, и сохранить фактическую точку. Метка агентства не заменяет указание водителя.",
     "coordinate_source": "OpenStreetMap node/6986942585",
     "precision": "ориентир / требует подтверждения",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.0987556%2C-4.0173168"
@@ -134,7 +134,7 @@
     "lat": 31.5209261,
     "lon": -5.5300518,
     "address": "",
-    "description": "Это ориентир района, НЕ точная платформа автобуса. Обязательно получить pin кассы/посадки у Supratours при приезде 27.11; ошибочную южную метку FFX5+P9 не использовать.",
+    "description": "Это ориентир района, НЕ точная платформа автобуса. Обязательно получить pin кассы/посадки у Supratours при приезде 26.11; ошибочную южную метку FFX5+P9 не использовать.",
     "coordinate_source": "OpenStreetMap node/6376352886",
     "precision": "ориентир / требует подтверждения",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.5209261%2C-5.5300518"
@@ -218,7 +218,7 @@
     "lat": 34.02648,
     "lon": -6.834366,
     "address": "11 Rue Moulay Brahim, médina",
-    "description": "186,65 MAD / 22–23.11 / 1 взрослый, 1 ночь",
+    "description": "180–240 MAD / ночь; Наличные заявлены. Подтвердить отсутствие депозита и итог с налогами.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0264800%2C-6.8343660"
@@ -232,7 +232,7 @@
     "lat": 34.027202,
     "lon": -6.833591,
     "address": "66 Impasse Attara, Rue des Consuls",
-    "description": "241,55 MAD / 22–23.11 / 1 взрослый, 1 ночь",
+    "description": "220–280 MAD / ночь; Наличные заявлены; бронь без карты запросить.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0272020%2C-6.8335910"
@@ -246,7 +246,7 @@
     "lat": 34.02364,
     "lon": -6.841425,
     "address": "43 Rue Marassa, Bab El Had",
-    "description": "От 130 MAD / койка по путеводителю; +20 MAD налог по Hostelworld. 22–23.11 запросить",
+    "description": "От 130 MAD / ночь; Наличные MAD. Уточнить завтрак, бронь и время закрытия входа.",
     "coordinate_source": "Hostelling International: официальный pin 34.02364,-6.841425",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0236400%2C-6.8414250"
@@ -260,7 +260,7 @@
     "lat": 34.059468,
     "lon": -4.978931,
     "address": "1 Derb Arset Bennis, Douh / Batha",
-    "description": "План 140–200 MAD / 1 ночь; итог на нужную дату запросить",
+    "description": "140–200 MAD / ночь; Наличные заявлены; налог около 3 EUR / ночь отдельно. Позднее заселение согласовать.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0594680%2C-4.9789310"
@@ -274,7 +274,7 @@
     "lat": 34.063325,
     "lon": -4.973754,
     "address": "31 Aqbet Zerka Quetanine, Rcif",
-    "description": "План 120–180 MAD / 1 ночь; завтрак и налоги уточнить",
+    "description": "120–180 MAD / ночь; Наличные заявлены; налог около 2 EUR / ночь и завтрак отдельно.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0633250%2C-4.9737540"
@@ -288,7 +288,7 @@
     "lat": 31.0970079,
     "lon": -4.0104943,
     "address": "Merzouga Main Street, центр посёлка",
-    "description": "План 100–180 MAD / 1 ночь; прямую наличную бронь запросить",
+    "description": "100–180 MAD / ночь; Запросить наличную бронь и оставление вещей около 06:00. Ранняя кровать не включена.",
     "coordinate_source": "OpenStreetMap / публичный адрес",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.0970079%2C-4.0104943"
@@ -302,7 +302,7 @@
     "lat": 31.0962625,
     "lon": -4.0104219,
     "address": "3XWQ+GR4, N13, Merzouga",
-    "description": "План 150–250 MAD / 1 ночь; прямую наличную бронь запросить",
+    "description": "150–250 MAD / ночь; Cash on arrival опубликовано; завтрак и отсутствие депозита подтвердить.",
     "coordinate_source": "OpenStreetMap / публичный адрес",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.0962625%2C-4.0104219"
@@ -316,7 +316,7 @@
     "lat": 31.578179,
     "lon": -5.586591,
     "address": "Tizgui, R703, долина Тодра",
-    "description": "180 MAD / кровать / ночь с завтраком — публичный тариф; 360 MAD за две ночи до подтверждения налогов",
+    "description": "180 MAD / ночь; 360 за две; Подтвердить MAD, налоги, ужины и машину на 28.11.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.5781790%2C-5.5865910"
@@ -330,7 +330,7 @@
     "lat": 31.57859,
     "lon": -5.587771,
     "address": "Tizgui, R703, HCH7+G2, Tinghir",
-    "description": "План 300–400 MAD / номер / ночь; итог на две ночи запросить",
+    "description": "300–400 MAD / номер / ночь; Наличные и отсутствие депозита требуют ответа хозяина.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.5785900%2C-5.5877710"
@@ -344,7 +344,7 @@
     "lat": 31.042756,
     "lon": -7.130414,
     "address": "P1506, Aït Benhaddou, новый посёлок",
-    "description": "План 300–400 MAD / 1 ночь; наличный тариф на новую дату запросить",
+    "description": "300–400 MAD / ночь; Запросить итог за одного и оплату MAD при заселении.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.0427560%2C-7.1304140"
@@ -358,7 +358,7 @@
     "lat": 31.043057,
     "lon": -7.13091,
     "address": "Aït Benhaddou, новый посёлок",
-    "description": "План 350–450 MAD / 1 ночь; наличный тариф на новую дату запросить",
+    "description": "350–450 MAD / ночь; Прямую бронь без карты подтвердить; еда отдельно.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.0430570%2C-7.1309100"
@@ -372,7 +372,7 @@
     "lat": 31.62473,
     "lon": -7.983394,
     "address": "27 Derb Cherkaoui, Douar Graoua",
-    "description": "План 320–420 MAD за две ночи; налог и отказ от предавторизации подтвердить",
+    "description": "320–420 MAD за две ночи; Наличные заявлены, но возможна предавторизация. Нужен отказ от неё; налог около 2,5 EUR / ночь отдельно.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.6247300%2C-7.9833940"
@@ -386,7 +386,7 @@
     "lat": 31.623476,
     "lon": -7.98529,
     "address": "40 Derb Zinka Dika, Riad Zitoun el Jdid",
-    "description": "План 300–420 MAD за две ночи; нужен тариф без предоплаты",
+    "description": "300–420 MAD за две ночи; Полученный тариф требовал предоплаты. Подходит только после прямого подтверждения другого тарифа.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.6234760%2C-7.9852900"
@@ -400,7 +400,7 @@
     "lat": 31.514618,
     "lon": -9.770622,
     "address": "21/22 Rue Abderrahamane Eddakhil, médina",
-    "description": "План 180–220 MAD / 1 ночь; налог и наличный тариф уточнить",
+    "description": "180–220 MAD / ночь; Cash only опубликовано; депозит и налог уточнить. Перед CTM завтрак нужен раньше обычного.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.5146180%2C-9.7706220"
@@ -414,7 +414,7 @@
     "lat": 31.514745,
     "lon": -9.766787,
     "address": "34 Rue El Abbana / Derb Lebbana",
-    "description": "План 130–180 MAD / 1 ночь; налог и наличный тариф уточнить",
+    "description": "130–180 MAD / ночь; Нужен прямой наличный тариф; возможен налог около 22 MAD.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.5147450%2C-9.7667870"
@@ -428,7 +428,7 @@
     "lat": 33.6000885,
     "lon": -7.6173257,
     "address": "20 Place Ahmed El Bidaoui, Ancienne Médina",
-    "description": "План 250–400 MAD / номер / 1 ночь; итог на дату запросить",
+    "description": "250–400 MAD / ночь; Наличные допускаются; бронь без карты и налог уточнить.",
     "coordinate_source": "OpenStreetMap / публичный адрес",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=33.6000885%2C-7.6173257"
@@ -442,7 +442,7 @@
     "lat": 33.592349,
     "lon": -7.616059,
     "address": "2/3 Rue Chérif Amezyane, angle Rue Prince Moulay Abdellah",
-    "description": "План 450–550 MAD / номер / 1 ночь; итог на дату запросить",
+    "description": "450–550 MAD / ночь; Наличный тариф и бронь без карты не подтверждены.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=33.5923490%2C-7.6160590"
@@ -806,7 +806,7 @@
     "lat": 34.0267279,
     "lon": -6.8339196,
     "address": "23 Rue Moulay Brahim, médina",
-    "description": "Тажин ягнёнка с черносливом; пастилла по наличию. Не заказывать везде один и тот же тажин.; бюджет 150–300 MAD/чел., рабочий резерв",
+    "description": "Тажин ягнёнка с черносливом или пастилла; 150–300 MAD; Ужин 22.11; уточнить работу кухни.",
     "coordinate_source": "OpenStreetMap node/5890468189",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0267279%2C-6.8339196"
@@ -820,7 +820,7 @@
     "lat": 34.0673793,
     "lon": -4.9738478,
     "address": "19 Rue Azaouia, Fandak Lihoudi",
-    "description": "Фасская пастилла и набор домашних салатов; согласовать меню с хозяйкой.; бюджет 250–450 MAD/чел., оценка",
+    "description": "Фасская пастилла и домашние салаты; 250–450 MAD; Обед 24.11, 12:30–14:00, по предварительному заказу на одного.",
     "coordinate_source": "OpenStreetMap node/10307815509",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0673793%2C-4.9738478"
@@ -834,7 +834,7 @@
     "lat": 31.0379096,
     "lon": -4.0077138,
     "address": "Village Khamlia, Route de Taouz, около 7 км южнее Мерзуги",
-    "description": "Свежая медфуна — закрытый хлеб с мясом и специями. Заказать заранее, спросить, готовят ли целую сейчас.; бюджет 80–150 MAD/чел. + дорога, оценка",
+    "description": "Свежая медфуна; 80–150 MAD + дорога; Хамлия: заказ и обратная машина обязательны до выезда.",
     "coordinate_source": "OpenStreetMap node/2312523058",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.0379096%2C-4.0077138"
@@ -848,7 +848,7 @@
     "lat": 31.6270278,
     "lon": -7.9876932,
     "address": "Souk Ablouh 18–26, севернее Джемаа-эль-Фна",
-    "description": "Мешуи из печи, кумин и хлеб; либо танжия. Идти к обеду 12:00–13:00.; бюджет 100–200 MAD/чел., зависит от веса",
+    "description": "Мешуи из печи или танжия; 100–200 MAD; 30.11 к 12:00–13:00. Проверить адрес Souk Ablouh, вес и итог.",
     "coordinate_source": "OpenStreetMap node/5149635023",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.6270278%2C-7.9876932"
@@ -862,7 +862,7 @@
     "lat": 31.6359916,
     "lon": -8.0133642,
     "address": "55 Boulevard Mohamed Zerktouni, Guéliz",
-    "description": "Небольшая порция марокканских салатов; пастилла или ягнёнок. Уточнить размер блюда на одного.; бюджет 300–600 MAD/чел. без алкоголя, резерв",
+    "description": "Небольшое ассорти салатов, пастилла или ягнёнок; 300–600 MAD; 30.11 к 17:30, по заказу. Уточнить размер порции на одного и наличные.",
     "coordinate_source": "OpenStreetMap node/519144892",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.6359916%2C-8.0133642"
@@ -876,7 +876,7 @@
     "lat": 31.5137487,
     "lon": -9.7714346,
     "address": "Медина, район Rue Skala / Rue d’Agadir; pin точнее вариаций адреса",
-    "description": "Рыба дня с чермулой или рыбный тажин; спросить, какой улов сегодня свежий.; бюджет 100–220 MAD/чел., резерв",
+    "description": "Рыба дня с чермулой или рыбный тажин; 100–220 MAD; Обед 01.12 около 13:00. Спросить о свежем улове.",
     "coordinate_source": "OpenStreetMap node/7170286385",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.5137487%2C-9.7714346"
@@ -890,7 +890,7 @@
     "lat": 31.5129204,
     "lon": -9.7711223,
     "address": "36 Rue de Baghdad, médina",
-    "description": "Традиционный тажин; вначале спросить о рыбных и местных блюдах дня.; бюджет 100–220 MAD/чел., резерв",
+    "description": "Местное блюдо дня, рыбный или мясной тажин; 100–220 MAD; Запасной вариант, если Khmissa закрыта или занята.",
     "coordinate_source": "OpenStreetMap node/4842752629",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.5129204%2C-9.7711223"
@@ -904,7 +904,7 @@
     "lat": 33.6028481,
     "lon": -7.619212,
     "address": "Boulevard des Almohades, старые укрепления",
-    "description": "Марокканский завтрак или салаты и тажин; выбрать блюда, которых ещё не было в поездке.; бюджет 180–350 MAD/чел., резерв",
+    "description": "Марокканские салаты и тажин; 180–350 MAD; Ужин 02.12; рядом с ночлегом. При дневном вылете 03.12 завтрак здесь не планировать.",
     "coordinate_source": "OpenStreetMap node/516618742",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=33.6028481%2C-7.6192120"
