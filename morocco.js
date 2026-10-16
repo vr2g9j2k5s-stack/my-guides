@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded',()=>{
       layer=L.layerGroup().addTo(map);
     }else document.getElementById('routeMap').innerHTML='<p style="padding:24px">Подложка карты не загрузилась. Все точки доступны в таблице ниже и файле KML; ссылки Google Maps работают отдельно.</p>';
     const update=()=>{
-      const q=searchEl.value.trim().toLowerCase(),selected=data.filter(p=>(cityEl.value?p.city===cityEl.value:p.city!=='rabat')&&(!catEl.value||p.category===catEl.value)&&(!q||(p.id+' '+p.name+' '+p.address).toLowerCase().includes(q)));
+      const q=searchEl.value.trim().toLowerCase(),selected=data.filter(p=>(!cityEl.value||p.city===cityEl.value)&&(!catEl.value||p.category===catEl.value)&&(!q||(p.id+' '+p.name+' '+p.address).toLowerCase().includes(q)));
       document.getElementById('pointCount').textContent=selected.length+' из '+data.length+' меток';
       const ids=new Set(selected.map(p=>p.id));
       document.querySelectorAll('[data-point-id]').forEach(row=>row.hidden=!ids.has(row.dataset.pointId));
