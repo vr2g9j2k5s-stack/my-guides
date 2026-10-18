@@ -372,7 +372,7 @@
     "lat": 31.62473,
     "lon": -7.983394,
     "address": "27 Derb Cherkaoui, Douar Graoua",
-    "description": "320–420 MAD за две ночи; Наличные заявлены, но возможна предавторизация. Нужен отказ от неё; налог около 2,5 EUR / ночь отдельно.",
+    "description": "320–420 MAD за две ночи; Наличные заявлены, но возможна предавторизация. Нужна прямая бронь с явным отказом от карты и депозита; налог около 2,5 EUR / ночь отдельно.",
     "coordinate_source": "Booking.com: координаты объекта",
     "precision": "точка объекта",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=31.6247300%2C-7.9833940"
@@ -950,5 +950,19 @@
     "coordinate_source": "OpenStreetMap node/6537886588",
     "precision": "ориентир / требует подтверждения",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=34.0613354%2C-4.9838228"
+  },
+  {
+    "id": "MA02",
+    "key": "marrgare",
+    "name": "Gare ONCF Marrakech: железнодорожный вокзал",
+    "city": "marrakech",
+    "category": "transport",
+    "lat": 31.63096,
+    "lon": -8.017262,
+    "address": "Avenue Hassan II / Avenue Mohammed VI",
+    "description": "Резерв 02.12: после Supratours из Эссуэйры перейти к поездам ONCF в Касабланку. На пересадку 60–90 минут.",
+    "coordinate_source": "https://fr.wikipedia.org/wiki/Gare_de_Marrakech",
+    "precision": "ориентир здания; вход по указателям ONCF",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=31.63096%2C-8.017262"
   }
 ]

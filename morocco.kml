@@ -131,7 +131,7 @@ Aït Benhaddou, новый посёлок
 https://www.google.com/maps/search/?api=1&amp;query=31.0430570%2C-7.1309100</description><Point><coordinates>-7.13091,31.043057,0</coordinates></Point></Placemark>
 <Placemark><name>Boho 27 Hostel Marrakech</name><description>Марракеш
 27 Derb Cherkaoui, Douar Graoua
-320–420 MAD за две ночи; Наличные заявлены, но возможна предавторизация. Нужен отказ от неё; налог около 2,5 EUR / ночь отдельно.
+320–420 MAD за две ночи; Наличные заявлены, но возможна предавторизация. Нужна прямая бронь с явным отказом от карты и депозита; налог около 2,5 EUR / ночь отдельно.
 точка объекта
 https://www.google.com/maps/search/?api=1&amp;query=31.6247300%2C-7.9833940</description><Point><coordinates>-7.983394,31.62473,0</coordinates></Point></Placemark>
 <Placemark><name>Hostel Riad Marrakech Rouge</name><description>Марракеш
@@ -339,4 +339,9 @@ https://www.google.com/maps/search/?api=1&amp;query=34.0248100%2C-6.8262600</des
 Точный вход и курс проверить на месте; адрес известен, координата района ориентировочная.
 ориентир / требует подтверждения
 https://www.google.com/maps/search/?api=1&amp;query=34.0613354%2C-4.9838228</description><Point><coordinates>-4.9838228,34.0613354,0</coordinates></Point></Placemark>
+<Placemark><name>Gare ONCF Marrakech: железнодорожный вокзал</name><description>Марракеш
+Avenue Hassan II / Avenue Mohammed VI
+Резерв 02.12: после Supratours из Эссуэйры перейти к поездам ONCF в Касабланку. На пересадку 60–90 минут.
+ориентир здания; вход по указателям ONCF
+https://www.google.com/maps/search/?api=1&amp;query=31.63096%2C-8.017262</description><Point><coordinates>-8.017262,31.63096,0</coordinates></Point></Placemark>
 </Document></kml>

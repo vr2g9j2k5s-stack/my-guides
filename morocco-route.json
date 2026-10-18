@@ -74,11 +74,11 @@
       "events": [
         [
           "09:00–12:30",
-          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0618449%2C-4.9837078\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Синие ворота</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0622514%2C-4.9826927\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Бу-Инания</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0651258%2C-4.9735649\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Аль-Аттарин</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0659178%2C-4.9709916\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">красильни Шуара</a>."
+          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0618449%2C-4.9837078\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Синие ворота</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0622514%2C-4.9826927\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Бу-Инания</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0651258%2C-4.9735649\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Аль-Аттарин</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0659178%2C-4.9709916\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Шуара</a>. Если билет ещё не куплен, сначала Supratours; второе медресе убрать."
         ],
         [
-          "12:30–14:00",
-          "Заказанный обед <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0673793%2C-4.9738478\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Dar Hatim</a>. Затем рынки; <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0698100%2C-4.9794100\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">панорама у гробниц</a> факультативно до 16:30."
+          "12:30–16:30",
+          "Обед <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0673793%2C-4.9738478\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Dar Hatim</a> по заказу → рынки. Обменять деньги в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0613354%2C-4.9838228\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Belaid Finance</a>: перед югом иметь 2 500–3 500 MAD. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0698100%2C-4.9794100\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Панорама у гробниц</a> по силам."
         ],
         [
           "17:00–18:00",
@@ -145,7 +145,7 @@
           "Домашний ужин; проверить трек, погоду и обувь для похода. Заказать машину на 28.11, 09:45."
         ]
       ],
-      "critical": "Точка TO02 в Тингире — ориентир района. Точную посадку подтвердить при покупке.",
+      "critical": "В Тингире сохранить фактическую посадку автобуса на 28.11. Обратную машину из Тизги заказать с прибытием за час до него.",
       "weekday": "чт"
     },
     {
@@ -169,7 +169,7 @@
           "Обед и отдых; вечером подтвердить водителя на завтра, цену, багаж и точную посадку автобуса."
         ]
       ],
-      "critical": "При дожде, сильном ветре, льде или плохой видимости — доступные прогулки в долине вместо кольца.",
+      "critical": "При осадках, льде, сильном ветре или плохой видимости — долина. На плато развилки и осыпь: нужен скачанный трек и цепкая обувь.",
       "weekday": "пт"
     },
     {
@@ -190,7 +190,7 @@
         ],
         [
           "12:00 → 15:00 ≈",
-          "Автобус → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=30.9247130%2C-6.9278590\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours Уарзазат</a>, 70–100 MAD. Сразу купить рейс в Марракеш на 29.11."
+          "Автобус → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=30.9247130%2C-6.9278590\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours Уарзазат</a>, 70–100 MAD. Купить билет в Марракеш на 29.11: сначала проверить рейсы после полудня."
         ],
         [
           "15:00–17:00 ≈",
@@ -210,7 +210,7 @@
       "title": "Айт → Марракеш",
       "city": "marrakech",
       "night": "boho",
-      "walk": "8–11 км; больше с Тауриртом",
+      "walk": "4–7 км; +6–7 км с Тауриртом",
       "events": [
         [
           "08:15–10:15 ≈",
@@ -221,19 +221,19 @@
           "Заказанная машина → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=30.9247130%2C-6.9278590\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours Уарзазат</a>, 120–200 MAD за машину."
         ],
         [
-          "11:30–14:45",
-          "Обед, вода, багаж. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=30.9201500%2C-6.8993200\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Таурирт</a> — только при свободном окне; подход 3–3,5 км в одну сторону."
+          "11:30–14:15",
+          "Обед, вода, багаж. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=30.9201500%2C-6.8993200\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Таурирт</a> — по свободному окну: 3–3,5 км в одну сторону. Вернуться к 14:15, если выезд около 15:00."
         ],
         [
-          "15:30 → 20:00 ≈",
-          "Автобус через Атлас → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6297900%2C-8.0189800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours Марракеш</a>, 110–160 MAD."
+          "15:00–15:30 ≈",
+          "Автобус через Атлас, 110–160 MAD. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6297900%2C-8.0189800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours Марракеш</a> около 19:30–20:30. Точное время — по билету."
         ],
         [
-          "20:00–22:00 ≈",
-          "Пешком 65–80 мин к <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6247300%2C-7.9833940\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Boho 27</a>. Позднее заселение согласовать."
+          "После автобуса",
+          "Petit taxi к согласованной с <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6247300%2C-7.9833940\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Boho 27</a> точке у медины, затем 5–15 мин пешком. Всего 30–50 мин; резерв 50–100 MAD. Позднее заселение согласовать."
         ]
       ],
-      "critical": "На станции к 14:45–15:00. Утренний автобус 08:45 несовместим с осмотром Айта.",
+      "critical": "Основной план сохраняет 2 часа на Айт утром. Более ранний автобус — только по купленному билету; отдельный вариант ниже.",
       "weekday": "вс"
     },
     {
@@ -250,7 +250,7 @@
         ],
         [
           "12:00–16:00",
-          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6270278%2C-7.9876932\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Chez Lamine</a>: мешуи или танжия. Затем рынки; без дополнительных обязательных музеев."
+          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6270278%2C-7.9876932\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Chez Lamine</a>: мешуи или танжия. Рынки и <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6245820%2C-7.9897782\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">обмен Hotel Ali</a>. Купить билет в Эссуэйру, если ещё не куплен."
         ],
         [
           "17:30–20:30",
@@ -258,10 +258,10 @@
         ],
         [
           "Вечером",
-          "Купить воду и перекус для раннего выезда; автобусный билет уже должен быть на руках."
+          "Подтвердить petit taxi на 06:15, точку подачи и итоговую цену. Взять воду и перекус для автобуса; билет уже на руках."
         ]
       ],
-      "critical": "На 01.12 ранний выход к вокзалу. Наличный расчёт и размер меню на одного согласовать заранее.",
+      "critical": "Автомобиль не подъедет к каждому риаду. У хозяина заранее получить точную точку встречи и путь к ней.",
       "weekday": "пн"
     },
     {
@@ -270,11 +270,11 @@
       "title": "Марракеш → Эссуэйра",
       "city": "essaouira",
       "night": "chill",
-      "walk": "12–17 км",
+      "walk": "8–13 км",
       "events": [
         [
-          "05:40–07:00",
-          "Пешком 4–4,5 км к <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6297900%2C-8.0189800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours</a>."
+          "06:00–07:00",
+          "Пешком 5–15 мин к согласованной точке. Заказанный petit taxi в 06:15 → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6297900%2C-8.0189800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours</a>. Резерв 50–100 MAD; на станции к 07:00."
         ],
         [
           "07:30 → 10:30 ≈",
@@ -282,14 +282,14 @@
         ],
         [
           "11:00–15:00",
-          "Купить CTM на завтра → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5094500%2C-9.7726800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">порт</a> → обед <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5137487%2C-9.7714346\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Khmissa</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5147700%2C-9.7735800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">стены над океаном</a>."
+          "Проверить билет CTM на завтра → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5094500%2C-9.7726800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">порт</a> → обед <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5137487%2C-9.7714346\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Khmissa</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5147700%2C-9.7735800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">стены</a>. Если прямого CTM нет — купить утренний Supratours в Марракеш."
         ],
         [
           "15:00–18:00",
           "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5074000%2C-9.7683000\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Пляж</a> и медина. Купание только при подходящем море."
         ]
       ],
-      "critical": "Завтра CTM отправляется с другой станции, вне медины; сохранить точку заранее.",
+      "critical": "План на 02.12 выбрать сегодня: прямой CTM или ранний автобус в Марракеш + поезд. Их станции в Эссуэйре различаются.",
       "weekday": "вт"
     },
     {
@@ -317,7 +317,7 @@
           "Ужин <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.6028481%2C-7.6192120\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">La Sqala</a>. Проверить поезд в аэропорт на завтра."
         ]
       ],
-      "critical": "В билете нужна Casablanca FAR. Ночёвка отделяет этот автобус от международного вылета.",
+      "critical": "Прямой CTM — только при наличии билета. Резерв через Марракеш выбрать накануне, а не утром после пропущенного рейса.",
       "weekday": "ср"
     },
     {
@@ -333,15 +333,15 @@
           "Пешком к <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.6082243%2C-7.6324728\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">мечети Хасана II</a>, прибыть к 08:30; сеанс 09:00, 140 MAD."
         ],
         [
-          "Рейс AT222 · 15:10",
-          "Сразу за вещами → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5993825%2C-7.6123131\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Casa Port</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.3740580%2C-7.5787010\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">CMN</a>. В аэропорту к 12:00. Дополнительный обед и Хабус убрать."
+          "AT222 · 15:10",
+          "После экскурсии — вещи → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5993825%2C-7.6123131\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Casa Port</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.3740580%2C-7.5787010\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">CMN</a> к 12:00. Накануне проверить, что конкретный поезд достижим; иначе сократить осмотр или заказать taxi в аэропорт."
         ],
         [
           "Рейс AT220 · 21:55",
           "После экскурсии свободный день. Поезд выбрать с прибытием в CMN к 18:30. Прилёт в Москву 04.12."
         ]
       ],
-      "critical": "Выбрать один обратный рейс по билету. Для обоих предусмотрено не менее трёх часов в аэропорту.",
+      "critical": "Время рейса сверить по билету. Поезд выбирать с прибытием минимум за 3 часа до вылета, включая запас на подход и ожидание.",
       "weekday": "чт"
     }
   ],
@@ -427,16 +427,17 @@
     {
       "id": "ouarz-marr",
       "date": "29.11",
-      "out": "15:30 ≈",
-      "arr": "20:00 ≈",
+      "out": "15:00–15:30 ≈",
+      "arr": "19:30–20:30 ≈",
       "origin": "ouarzb",
       "dest": "marrb",
       "route": "Уарзазат → Марракеш",
       "mode": "Supratours через Атлас",
       "cost": "110–160",
-      "buy": "В Уарзазате 28.11, до выезда в Айт",
+      "buy": "Касса 28.11; сравнить рейсы после полудня",
       "refs": [
-        "T5"
+        "T5",
+        "T22"
       ]
     },
     {
@@ -464,7 +465,7 @@
       "route": "Эссуэйра → Касабланка",
       "mode": "CTM, терминал Casablanca FAR",
       "cost": "220–280",
-      "buy": "CTM / Wafacash, купить 01.12",
+      "buy": "CTM / Wafacash: по возможности раньше, крайний срок 01.12",
       "refs": [
         "T8",
         "T9",
@@ -649,7 +650,8 @@
         "T1",
         "T4",
         "H7",
-        "H8"
+        "H8",
+        "T1"
       ]
     },
     "ait": {
@@ -688,7 +690,7 @@
       "stay": "28 и 29 ноября · пересадки без ночёвки",
       "why": "Пересадка на Айт-Бен-Хадду и обратно; отдельная программа не обязательна.",
       "arr": "28.11 · автобус из Тингира около 15:00",
-      "dep": "29.11 · автобус в Марракеш около 15:30",
+      "dep": "29.11 · базовый выезд около 15:00–15:30; уточнить по билету",
       "arrival": "ouarzb",
       "main": [
         "taourirt"
@@ -698,21 +700,22 @@
           "taourirt",
           "29.11 · только при свободном окне",
           "45–75 мин + подходы",
-          "От Supratours 3–3,5 км в одну сторону. Вернуться к станции к 14:45."
+          "От Supratours 3–3,5 км в одну сторону. Если автобус около 15:00, вернуться к станции к 14:15."
         ]
       ],
       "food": [],
       "source": [
         "T18",
         "T3",
-        "A8"
+        "A8",
+        "T22"
       ]
     },
     "marrakech": {
       "stay": "29 ноября — 1 декабря · 2 ночи",
       "why": "Один полный день: дворец, медресе, рынки и вечерняя площадь.",
-      "arr": "29.11 · около 20:00, Supratours у вокзала",
-      "dep": "01.12 · автобус в Эссуэйру около 07:30; прийти к 07:00",
+      "arr": "29.11 · около 19:30–20:30, затем petit taxi в медину",
+      "dep": "01.12 · taxi 06:15; Supratours около 07:30",
       "arrival": "marrb",
       "main": [
         "bahia",
@@ -757,14 +760,15 @@
         "F5",
         "F6",
         "H13",
-        "H14"
+        "H14",
+        "T23"
       ]
     },
     "essaouira": {
       "stay": "1–2 декабря · 1 ночь",
       "why": "Рыбацкий порт, стены над океаном и местная рыбная кухня.",
       "arr": "01.12 · около 10:30, Supratours у Bab Marrakech",
-      "dep": "02.12 · CTM около 10:00; выйти из медины к 08:45",
+      "dep": "02.12 · CTM около 10:00; резерв — ранний Supratours в Марракеш",
       "arrival": "essab",
       "main": [
         "essaport",
@@ -807,7 +811,7 @@
     "casablanca": {
       "stay": "2–3 декабря · 1 ночь",
       "why": "Мечеть Хасана II изнутри и ночёвка перед вылетом.",
-      "arr": "02.12 · около 16:30–17:00, CTM FAR",
+      "arr": "02.12 · около 16:30–17:00, CTM FAR; резерв — поезд через Марракеш",
       "dep": "03.12 · AT222 15:10 или AT220 21:55",
       "arrival": "ctmcasa",
       "main": [
@@ -853,7 +857,7 @@
       "Поезда, автобусы и багаж",
       1140,
       1610,
-      "9 основных переездов; кассовые цены и отправления по новым датам уточнить"
+      "9 основных участков; наличие и цены на даты уточнить. При пути через Марракеш 02.12 заменить стоимость прямого CTM, не складывать оба варианта."
     ],
     [
       "Grand taxi · 2 свободных участка",
@@ -866,6 +870,12 @@
       200,
       350,
       "Тизги → Тингир и Айт → Уарзазат: вся машина, оплачивается одним путешественником"
+    ],
+    [
+      "Petit taxi в Марракеше · 2 поездки",
+      100,
+      200,
+      "29.11 после приезда и 01.12 перед автобусом. Резерв 50–100 MAD за машину; это не подтверждённый тариф."
     ],
     [
       "Питание и гастрономические остановки",
@@ -901,7 +911,7 @@
       "Резерв",
       700,
       1000,
-      "Недостающие места в taxi, городское такси, перебронирование, задержки; не обязательная трата"
+      "Недостающие места в taxi, перебронирование и задержки; две запланированные поездки в Марракеше уже посчитаны отдельно."
     ]
   ]
 }
