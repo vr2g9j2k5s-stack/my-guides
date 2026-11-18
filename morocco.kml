@@ -1,347 +1,616 @@
-<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Марокко · 22.11–03.12.2026</name>
-<Placemark><name>CMN: ж/д станция аэропорта, терминал 1</name><description>Касабланка
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Марокко · 22.11–03.12.2026</name>
+    <Placemark>
+      <name>CMN: ж/д станция аэропорта, терминал 1</name>
+      <description>Касабланка
 
 Из прилёта T2 пройти в T1 по указателям Train. Здесь же первоначальный обмен в зале прилёта; точку конкретной стойки не фиксируем.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=33.3740580%2C-7.5787010</description><Point><coordinates>-7.578701,33.374058,0</coordinates></Point></Placemark>
-<Placemark><name>Casa Voyageurs: железнодорожный вокзал</name><description>Касабланка
+https://www.google.com/maps/search/?api=1&amp;query=33.3740580%2C-7.5787010</description>
+      <Point>
+        <coordinates>-7.578701,33.374058,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Casa Voyageurs: железнодорожный вокзал</name>
+      <description>Касабланка
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=33.5902297%2C-7.5900010</description><Point><coordinates>-7.590001,33.5902297,0</coordinates></Point></Placemark>
-<Placemark><name>Casa Port: вокзал к аэропорту</name><description>Касабланка
+https://www.google.com/maps/search/?api=1&amp;query=33.5902297%2C-7.5900010</description>
+      <Point>
+        <coordinates>-7.590001,33.5902297,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Casa Port: вокзал к аэропорту</name>
+      <description>Касабланка
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=33.5993825%2C-7.6123131</description><Point><coordinates>-7.6123131,33.5993825,0</coordinates></Point></Placemark>
-<Placemark><name>CTM FAR: городской терминал</name><description>Касабланка
+https://www.google.com/maps/search/?api=1&amp;query=33.5993825%2C-7.6123131</description>
+      <Point>
+        <coordinates>-7.6123131,33.5993825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CTM FAR: городской терминал</name>
+      <description>Касабланка
 
 Выбрать прибытие Casablanca FAR. Если билет на другую станцию, этот подход не подходит.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=33.5960595%2C-7.6114350</description><Point><coordinates>-7.611435,33.5960595,0</coordinates></Point></Placemark>
-<Placemark><name>Rabat Ville: центральный вокзал</name><description>Рабат
+https://www.google.com/maps/search/?api=1&amp;query=33.5960595%2C-7.6114350</description>
+      <Point>
+        <coordinates>-7.611435,33.5960595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rabat Ville: центральный вокзал</name>
+      <description>Рабат
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0159887%2C-6.8368562</description><Point><coordinates>-6.8368562,34.0159887,0</coordinates></Point></Placemark>
-<Placemark><name>Fès ONCF: железнодорожный вокзал</name><description>Фес
+https://www.google.com/maps/search/?api=1&amp;query=34.0159887%2C-6.8368562</description>
+      <Point>
+        <coordinates>-6.8368562,34.0159887,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fès ONCF: железнодорожный вокзал</name>
+      <description>Фес
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0454103%2C-5.0042926</description><Point><coordinates>-5.0042926,34.0454103,0</coordinates></Point></Placemark>
-<Placemark><name>Supratours Fès: у Gare ONCF</name><description>Фес
+https://www.google.com/maps/search/?api=1&amp;query=34.0454103%2C-5.0042926</description>
+      <Point>
+        <coordinates>-5.0042926,34.0454103,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supratours Fès: у Gare ONCF</name>
+      <description>Фес
 2XWW+88G, Fès 30050
 До ухода в медину купить ночной билет. Точный выход/платформу уточнить в кассе.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0458130%2C-5.0041720</description><Point><coordinates>-5.004172,34.045813,0</coordinates></Point></Placemark>
-<Placemark><name>Supratours Merzouga: агентство / ориентир посадки</name><description>Мерзуга
+https://www.google.com/maps/search/?api=1&amp;query=34.0458130%2C-5.0041720</description>
+      <Point>
+        <coordinates>-5.004172,34.045813,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supratours Merzouga: агентство / ориентир посадки</name>
+      <description>Мерзуга
 
 По прибытии спросить, здесь ли садиться 26.11 в 07:30, и сохранить фактическую точку. Метка агентства не заменяет указание водителя.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=31.0987556%2C-4.0173168</description><Point><coordinates>-4.0173168,31.0987556,0</coordinates></Point></Placemark>
-<Placemark><name>Grand taxi: Тингир → долина Тодра</name><description>Тодра
+https://www.google.com/maps/search/?api=1&amp;query=31.0987556%2C-4.0173168</description>
+      <Point>
+        <coordinates>-4.0173168,31.0987556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand taxi: Тингир → долина Тодра</name>
+      <description>Тодра
 
 Стоянка машин в долину. Остановку Supratours отметить по фактической высадке; интернет-карты конфликтуют.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5209261%2C-5.5300518</description><Point><coordinates>-5.5300518,31.5209261,0</coordinates></Point></Placemark>
-<Placemark><name>Тингир: ориентир центральной пересадки Supratours</name><description>Тодра
+https://www.google.com/maps/search/?api=1&amp;query=31.5209261%2C-5.5300518</description>
+      <Point>
+        <coordinates>-5.5300518,31.5209261,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тингир: ориентир центральной пересадки Supratours</name>
+      <description>Тодра
 
 Это ориентир района, НЕ точная платформа автобуса. Обязательно получить pin кассы/посадки у Supratours при приезде 26.11; ошибочную южную метку FFX5+P9 не использовать.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=31.5209261%2C-5.5300518</description><Point><coordinates>-5.5300518,31.5209261,0</coordinates></Point></Placemark>
-<Placemark><name>Supratours Ouarzazate: Av. Moulay Abdellah</name><description>Уарзазат
+https://www.google.com/maps/search/?api=1&amp;query=31.5209261%2C-5.5300518</description>
+      <Point>
+        <coordinates>-5.5300518,31.5209261,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supratours Ouarzazate: Av. Moulay Abdellah</name>
+      <description>Уарзазат
 W3FC+VVR, Av. Moulay Abdellah, Ouarzazate
 Западная автостанция, не касба Таурирт. Билет и посадку подтвердить в кассе.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=30.9247130%2C-6.9278590</description><Point><coordinates>-6.927859,30.924713,0</coordinates></Point></Placemark>
-<Placemark><name>Place des Grands Taxis: машины в Айт</name><description>Уарзазат
+https://www.google.com/maps/search/?api=1&amp;query=30.9247130%2C-6.9278590</description>
+      <Point>
+        <coordinates>-6.927859,30.924713,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Place des Grands Taxis: машины в Айт</name>
+      <description>Уарзазат
 
 Площадь перед автостанцией. Ряд машин на Айт спросить на месте; точный ряд не подтверждён.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=30.9253500%2C-6.9282400</description><Point><coordinates>-6.92824,30.92535,0</coordinates></Point></Placemark>
-<Placemark><name>Gare Supratours Marrakech: у вокзала ONCF</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=30.9253500%2C-6.9282400</description>
+      <Point>
+        <coordinates>-6.92824,30.92535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gare Supratours Marrakech: у вокзала ONCF</name>
+      <description>Марракеш
 
 Не путать с агентством Supratours у Bab Doukkala. Для рейса в Эссуэйру сверить терминал в билете.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6297900%2C-8.0189800</description><Point><coordinates>-8.01898,31.62979,0</coordinates></Point></Placemark>
-<Placemark><name>Supratours Essaouira: у Bab Marrakech</name><description>Эссуэйра
+https://www.google.com/maps/search/?api=1&amp;query=31.6297900%2C-8.0189800</description>
+      <Point>
+        <coordinates>-8.01898,31.62979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supratours Essaouira: у Bab Marrakech</name>
+      <description>Эссуэйра
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5108550%2C-9.7670841</description><Point><coordinates>-9.7670841,31.510855,0</coordinates></Point></Placemark>
-<Placemark><name>CTM Essaouira: автостанция вне медины</name><description>Эссуэйра
+https://www.google.com/maps/search/?api=1&amp;query=31.5108550%2C-9.7670841</description>
+      <Point>
+        <coordinates>-9.7670841,31.510855,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CTM Essaouira: автостанция вне медины</name>
+      <description>Эссуэйра
 
 Не офис CTM в медине. До посадки из медины около 2–2,5 км; станция в билете приоритетна.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5041175%2C-9.7569901</description><Point><coordinates>-9.7569901,31.5041175,0</coordinates></Point></Placemark>
-<Placemark><name>Dar Oussama</name><description>Рабат
-11 Rue Moulay Brahim, médina
-180–240 MAD / ночь; Наличные заявлены. Подтвердить отсутствие депозита и итог с налогами.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0264800%2C-6.8343660</description><Point><coordinates>-6.834366,34.02648,0</coordinates></Point></Placemark>
-<Placemark><name>Dar Wassim El Ghali</name><description>Рабат
-66 Impasse Attara, Rue des Consuls
-220–280 MAD / ночь; Наличные заявлены; бронь без карты запросить.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0272020%2C-6.8335910</description><Point><coordinates>-6.833591,34.027202,0</coordinates></Point></Placemark>
-<Placemark><name>Auberge de Jeunes Rabat — HI</name><description>Рабат
-43 Rue Marassa, Bab El Had
-От 130 MAD / ночь; Наличные MAD. Уточнить завтрак, бронь и время закрытия входа.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0236400%2C-6.8414250</description><Point><coordinates>-6.841425,34.02364,0</coordinates></Point></Placemark>
-<Placemark><name>Riad Verus</name><description>Фес
-1 Derb Arset Bennis, Douh / Batha
-140–200 MAD / ночь; Наличные заявлены; налог около 3 EUR / ночь отдельно. Позднее заселение согласовать.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0594680%2C-4.9789310</description><Point><coordinates>-4.978931,34.059468,0</coordinates></Point></Placemark>
-<Placemark><name>Moroccan Dream Hostel</name><description>Фес
-31 Aqbet Zerka Quetanine, Rcif
-120–180 MAD / ночь; Наличные заявлены; налог около 2 EUR / ночь и завтрак отдельно.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0633250%2C-4.9737540</description><Point><coordinates>-4.973754,34.063325,0</coordinates></Point></Placemark>
-<Placemark><name>Le Gout du Sahara Backpackers Hostel</name><description>Мерзуга
-Merzouga Main Street, центр посёлка
-100–180 MAD / ночь; Запросить наличную бронь и оставление вещей около 06:00. Ранняя кровать не включена.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.0970079%2C-4.0104943</description><Point><coordinates>-4.0104943,31.0970079,0</coordinates></Point></Placemark>
-<Placemark><name>Auberge Trans Sahara</name><description>Мерзуга
-3XWQ+GR4, N13, Merzouga
-150–250 MAD / ночь; Cash on arrival опубликовано; завтрак и отсутствие депозита подтвердить.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.0962625%2C-4.0104219</description><Point><coordinates>-4.0104219,31.0962625,0</coordinates></Point></Placemark>
-<Placemark><name>A Secret Garden</name><description>Тодра
-Tizgui, R703, долина Тодра
-180 MAD / ночь; 360 за две; Подтвердить MAD, налоги, ужины и машину на 28.11.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5781790%2C-5.5865910</description><Point><coordinates>-5.586591,31.578179,0</coordinates></Point></Placemark>
-<Placemark><name>Maison d’Hôte Valentine</name><description>Тодра
-Tizgui, R703, HCH7+G2, Tinghir
-300–400 MAD / номер / ночь; Наличные и отсутствие депозита требуют ответа хозяина.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5785900%2C-5.5877710</description><Point><coordinates>-5.587771,31.57859,0</coordinates></Point></Placemark>
-<Placemark><name>La Baraka Auberge</name><description>Айт-Бен-Хадду
-P1506, Aït Benhaddou, новый посёлок
-300–400 MAD / ночь; Запросить итог за одного и оплату MAD при заселении.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.0427560%2C-7.1304140</description><Point><coordinates>-7.130414,31.042756,0</coordinates></Point></Placemark>
-<Placemark><name>Kasbah Valentine</name><description>Айт-Бен-Хадду
-Aït Benhaddou, новый посёлок
-350–450 MAD / ночь; Прямую бронь без карты подтвердить; еда отдельно.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.0430570%2C-7.1309100</description><Point><coordinates>-7.13091,31.043057,0</coordinates></Point></Placemark>
-<Placemark><name>Boho 27 Hostel Marrakech</name><description>Марракеш
-27 Derb Cherkaoui, Douar Graoua
-320–420 MAD за две ночи; Наличные заявлены, но возможна предавторизация. Нужна прямая бронь с явным отказом от карты и депозита; налог около 2,5 EUR / ночь отдельно.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6247300%2C-7.9833940</description><Point><coordinates>-7.983394,31.62473,0</coordinates></Point></Placemark>
-<Placemark><name>Hostel Riad Marrakech Rouge</name><description>Марракеш
-40 Derb Zinka Dika, Riad Zitoun el Jdid
-300–420 MAD за две ночи; Полученный тариф требовал предоплаты. Подходит только после прямого подтверждения другого тарифа.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6234760%2C-7.9852900</description><Point><coordinates>-7.98529,31.623476,0</coordinates></Point></Placemark>
-<Placemark><name>The Chill Art Hostel</name><description>Эссуэйра
-21/22 Rue Abderrahamane Eddakhil, médina
-180–220 MAD / ночь; Cash only опубликовано; депозит и налог уточнить. Перед CTM завтрак нужен раньше обычного.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5146180%2C-9.7706220</description><Point><coordinates>-9.770622,31.514618,0</coordinates></Point></Placemark>
-<Placemark><name>Atlantic Hostel</name><description>Эссуэйра
-34 Rue El Abbana / Derb Lebbana
-130–180 MAD / ночь; Нужен прямой наличный тариф; возможен налог около 22 MAD.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5147450%2C-9.7667870</description><Point><coordinates>-9.766787,31.514745,0</coordinates></Point></Placemark>
-<Placemark><name>Hôtel Central</name><description>Касабланка
-20 Place Ahmed El Bidaoui, Ancienne Médina
-250–400 MAD / ночь; Наличные допускаются; бронь без карты и налог уточнить.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=33.6000885%2C-7.6173257</description><Point><coordinates>-7.6173257,33.6000885,0</coordinates></Point></Placemark>
-<Placemark><name>Hôtel de Paris</name><description>Касабланка
-2/3 Rue Chérif Amezyane, angle Rue Prince Moulay Abdellah
-450–550 MAD / ночь; Наличный тариф и бронь без карты не подтверждены.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=33.5923490%2C-7.6160590</description><Point><coordinates>-7.616059,33.592349,0</coordinates></Point></Placemark>
-<Placemark><name>Касба Удайя: старые улицы и океан</name><description>Рабат
+https://www.google.com/maps/search/?api=1&amp;query=31.5041175%2C-9.7569901</description>
+      <Point>
+        <coordinates>-9.7569901,31.5041175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Касба Удайя: старые улицы и океан</name>
+      <description>Рабат
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0316566%2C-6.8358475</description><Point><coordinates>-6.8358475,34.0316566,0</coordinates></Point></Placemark>
-<Placemark><name>Башня Хасана и мавзолей Мухаммеда V</name><description>Рабат
+https://www.google.com/maps/search/?api=1&amp;query=34.0316566%2C-6.8358475</description>
+      <Point>
+        <coordinates>-6.8358475,34.0316566,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Башня Хасана и мавзолей Мухаммеда V</name>
+      <description>Рабат
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0241489%2C-6.8227957</description><Point><coordinates>-6.8227957,34.0241489,0</coordinates></Point></Placemark>
-<Placemark><name>Plage de Rabat: городской пляж</name><description>Рабат
+https://www.google.com/maps/search/?api=1&amp;query=34.0241489%2C-6.8227957</description>
+      <Point>
+        <coordinates>-6.8227957,34.0241489,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plage de Rabat: городской пляж</name>
+      <description>Рабат
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0337431%2C-6.8376240</description><Point><coordinates>-6.837624,34.0337431,0</coordinates></Point></Placemark>
-<Placemark><name>Шелла: некрополь и античные руины</name><description>Рабат
+https://www.google.com/maps/search/?api=1&amp;query=34.0337431%2C-6.8376240</description>
+      <Point>
+        <coordinates>-6.837624,34.0337431,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шелла: некрополь и античные руины</name>
+      <description>Рабат
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0070329%2C-6.8215994</description><Point><coordinates>-6.8215994,34.0070329,0</coordinates></Point></Placemark>
-<Placemark><name>Bab Bou Jeloud: Синие ворота</name><description>Фес
+https://www.google.com/maps/search/?api=1&amp;query=34.0070329%2C-6.8215994</description>
+      <Point>
+        <coordinates>-6.8215994,34.0070329,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bab Bou Jeloud: Синие ворота</name>
+      <description>Фес
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0618449%2C-4.9837078</description><Point><coordinates>-4.9837078,34.0618449,0</coordinates></Point></Placemark>
-<Placemark><name>Медресе Бу-Инания</name><description>Фес
+https://www.google.com/maps/search/?api=1&amp;query=34.0618449%2C-4.9837078</description>
+      <Point>
+        <coordinates>-4.9837078,34.0618449,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Медресе Бу-Инания</name>
+      <description>Фес
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0622514%2C-4.9826927</description><Point><coordinates>-4.9826927,34.0622514,0</coordinates></Point></Placemark>
-<Placemark><name>Красильни Шуара: район смотровых террас</name><description>Фес
+https://www.google.com/maps/search/?api=1&amp;query=34.0622514%2C-4.9826927</description>
+      <Point>
+        <coordinates>-4.9826927,34.0622514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красильни Шуара: район смотровых террас</name>
+      <description>Фес
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0659178%2C-4.9709916</description><Point><coordinates>-4.9709916,34.0659178,0</coordinates></Point></Placemark>
-<Placemark><name>Медресе Аль-Аттарин</name><description>Фес
+https://www.google.com/maps/search/?api=1&amp;query=34.0659178%2C-4.9709916</description>
+      <Point>
+        <coordinates>-4.9709916,34.0659178,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Медресе Аль-Аттарин</name>
+      <description>Фес
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0651258%2C-4.9735649</description><Point><coordinates>-4.9735649,34.0651258,0</coordinates></Point></Placemark>
-<Placemark><name>Тодра: узкая часть ущелья</name><description>Тодра
+https://www.google.com/maps/search/?api=1&amp;query=34.0651258%2C-4.9735649</description>
+      <Point>
+        <coordinates>-4.9735649,34.0651258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тодра: узкая часть ущелья</name>
+      <description>Тодра
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5884880%2C-5.5938417</description><Point><coordinates>-5.5938417,31.588488,0</coordinates></Point></Placemark>
-<Placemark><name>Ксар Айт-Бен-Хадду</name><description>Айт-Бен-Хадду
+https://www.google.com/maps/search/?api=1&amp;query=31.5884880%2C-5.5938417</description>
+      <Point>
+        <coordinates>-5.5938417,31.588488,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ксар Айт-Бен-Хадду</name>
+      <description>Айт-Бен-Хадду
 
 
-центр исторического комплекса
-https://www.google.com/maps/search/?api=1&amp;query=31.047220%2C-7.128890</description><Point><coordinates>-7.12889,31.04722,0</coordinates></Point></Placemark>
-<Placemark><name>Дворец Бахия: вход</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=31.047220%2C-7.128890</description>
+      <Point>
+        <coordinates>-7.12889,31.04722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дворец Бахия: вход</name>
+      <description>Марракеш
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6209352%2C-7.9841258</description><Point><coordinates>-7.9841258,31.6209352,0</coordinates></Point></Placemark>
-<Placemark><name>Медресе Бен-Юсефа</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=31.6209352%2C-7.9841258</description>
+      <Point>
+        <coordinates>-7.9841258,31.6209352,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Медресе Бен-Юсефа</name>
+      <description>Марракеш
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6319841%2C-7.9860361</description><Point><coordinates>-7.9860361,31.6319841,0</coordinates></Point></Placemark>
-<Placemark><name>Джемаа-эль-Фна</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=31.6319841%2C-7.9860361</description>
+      <Point>
+        <coordinates>-7.9860361,31.6319841,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Джемаа-эль-Фна</name>
+      <description>Марракеш
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6258306%2C-7.9889197</description><Point><coordinates>-7.9889197,31.6258306,0</coordinates></Point></Placemark>
-<Placemark><name>Кутубия: внешняя прогулка</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=31.6258306%2C-7.9889197</description>
+      <Point>
+        <coordinates>-7.9889197,31.6258306,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кутубия: внешняя прогулка</name>
+      <description>Марракеш
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6237506%2C-7.9933578</description><Point><coordinates>-7.9933578,31.6237506,0</coordinates></Point></Placemark>
-<Placemark><name>Le Jardin Secret</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=31.6237506%2C-7.9933578</description>
+      <Point>
+        <coordinates>-7.9933578,31.6237506,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Jardin Secret</name>
+      <description>Марракеш
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6308747%2C-7.9900525</description><Point><coordinates>-7.9900525,31.6308747,0</coordinates></Point></Placemark>
-<Placemark><name>Мечеть Хасана II</name><description>Касабланка
+https://www.google.com/maps/search/?api=1&amp;query=31.6308747%2C-7.9900525</description>
+      <Point>
+        <coordinates>-7.9900525,31.6308747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мечеть Хасана II</name>
+      <description>Касабланка
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=33.6082243%2C-7.6324728</description><Point><coordinates>-7.6324728,33.6082243,0</coordinates></Point></Placemark>
-<Placemark><name>Хабус: квартал новой медины</name><description>Касабланка
+https://www.google.com/maps/search/?api=1&amp;query=33.6082243%2C-7.6324728</description>
+      <Point>
+        <coordinates>-7.6324728,33.6082243,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Хабус: квартал новой медины</name>
+      <description>Касабланка
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=33.5745744%2C-7.5970263</description><Point><coordinates>-7.5970263,33.5745744,0</coordinates></Point></Placemark>
-<Placemark><name>Гробницы Маринидов: панорама Феса</name><description>Фес
+https://www.google.com/maps/search/?api=1&amp;query=33.5745744%2C-7.5970263</description>
+      <Point>
+        <coordinates>-7.5970263,33.5745744,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гробницы Маринидов: панорама Феса</name>
+      <description>Фес
 
 Руины и зона панорамы; тропу и обратный выход выбрать засветло.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0698100%2C-4.9794100</description><Point><coordinates>-4.97941,34.06981,0</coordinates></Point></Placemark>
-<Placemark><name>Тизги: сады и долина у гостевых домов</name><description>Тодра
+https://www.google.com/maps/search/?api=1&amp;query=34.0698100%2C-4.9794100</description>
+      <Point>
+        <coordinates>-4.97941,34.06981,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тизги: сады и долина у гостевых домов</name>
+      <description>Тодра
 
 Ориентир начала прогулки, не горный трек. Попросить хозяина показать проход по садам.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=31.5778000%2C-5.5859000</description><Point><coordinates>-5.5859,31.5778,0</coordinates></Point></Placemark>
-<Placemark><name>Касба Таурирт: комплекс в Уарзазате</name><description>Уарзазат
+https://www.google.com/maps/search/?api=1&amp;query=31.5778000%2C-5.5859000</description>
+      <Point>
+        <coordinates>-5.5859,31.5778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Касба Таурирт: комплекс в Уарзазате</name>
+      <description>Уарзазат
 
 Координата комплекса; внутренний вход и реставрацию проверить накануне. Не одноимённая касба в другом населённом пункте.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=30.9201500%2C-6.8993200</description><Point><coordinates>-6.89932,30.92015,0</coordinates></Point></Placemark>
-<Placemark><name>Рыбацкий порт Эссуэйры</name><description>Эссуэйра
+https://www.google.com/maps/search/?api=1&amp;query=30.9201500%2C-6.8993200</description>
+      <Point>
+        <coordinates>-6.89932,30.92015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рыбацкий порт Эссуэйры</name>
+      <description>Эссуэйра
 
 Зона прогулки по порту; не стоять под разгрузкой и не мешать работе рыбаков.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=31.5094500%2C-9.7726800</description><Point><coordinates>-9.77268,31.50945,0</coordinates></Point></Placemark>
-<Placemark><name>Skala de la Kasbah: океанские стены</name><description>Эссуэйра
+https://www.google.com/maps/search/?api=1&amp;query=31.5094500%2C-9.7726800</description>
+      <Point>
+        <coordinates>-9.77268,31.50945,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skala de la Kasbah: океанские стены</name>
+      <description>Эссуэйра
 
 Ориентир прогулки по бастиону; не путать со Skala du Port.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=31.5147700%2C-9.7735800</description><Point><coordinates>-9.77358,31.51477,0</coordinates></Point></Placemark>
-<Placemark><name>Skala du Port</name><description>Эссуэйра
+https://www.google.com/maps/search/?api=1&amp;query=31.5147700%2C-9.7735800</description>
+      <Point>
+        <coordinates>-9.77358,31.51477,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skala du Port</name>
+      <description>Эссуэйра
 
 
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5100271%2C-9.7735822</description><Point><coordinates>-9.7735822,31.5100271,0</coordinates></Point></Placemark>
-<Placemark><name>Пляж Эссуэйры: северная часть бухты</name><description>Эссуэйра
+https://www.google.com/maps/search/?api=1&amp;query=31.5100271%2C-9.7735822</description>
+      <Point>
+        <coordinates>-9.7735822,31.5100271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пляж Эссуэйры: северная часть бухты</name>
+      <description>Эссуэйра
 
 Зона возможного короткого купания, не рекомендация входить при волнах. Дальше от портовых сооружений и мест занятий кайтом.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=31.5074000%2C-9.7683000</description><Point><coordinates>-9.7683,31.5074,0</coordinates></Point></Placemark>
-<Placemark><name>Erg Chebbi: дюны восточнее посёлка</name><description>Мерзуга
+https://www.google.com/maps/search/?api=1&amp;query=31.5074000%2C-9.7683000</description>
+      <Point>
+        <coordinates>-9.7683,31.5074,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Erg Chebbi: дюны восточнее посёлка</name>
+      <description>Мерзуга
 
 Ориентир края песков, не вершина и не готовый трек. Точку заката выбрать с хозяином, путь обратно сохранить.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=31.1010000%2C-4.0007000</description><Point><coordinates>-4.0007,31.101,0</coordinates></Point></Placemark>
-<Placemark><name>Dar Zaki</name><description>Рабат
+https://www.google.com/maps/search/?api=1&amp;query=31.1010000%2C-4.0007000</description>
+      <Point>
+        <coordinates>-4.0007,31.101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dar Zaki</name>
+      <description>Рабат
 23 Rue Moulay Brahim, médina
 Тажин ягнёнка с черносливом или пастилла; 150–300 MAD; Ужин 22.11; уточнить работу кухни.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0267279%2C-6.8339196</description><Point><coordinates>-6.8339196,34.0267279,0</coordinates></Point></Placemark>
-<Placemark><name>Dar Hatim</name><description>Фес
+https://www.google.com/maps/search/?api=1&amp;query=34.0267279%2C-6.8339196</description>
+      <Point>
+        <coordinates>-6.8339196,34.0267279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dar Hatim</name>
+      <description>Фес
 19 Rue Azaouia, Fandak Lihoudi
 Фасская пастилла и домашние салаты; 250–450 MAD; Обед 24.11, 12:30–14:00, по предварительному заказу на одного.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=34.0673793%2C-4.9738478</description><Point><coordinates>-4.9738478,34.0673793,0</coordinates></Point></Placemark>
-<Placemark><name>Restaurant Café Nora — Хамлия</name><description>Мерзуга
+https://www.google.com/maps/search/?api=1&amp;query=34.0673793%2C-4.9738478</description>
+      <Point>
+        <coordinates>-4.9738478,34.0673793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurant Café Nora — Хамлия</name>
+      <description>Мерзуга
 Village Khamlia, Route de Taouz, около 7 км южнее Мерзуги
 Свежая медфуна; 80–150 MAD + дорога; Хамлия: заказ и обратная машина обязательны до выезда.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.0379096%2C-4.0077138</description><Point><coordinates>-4.0077138,31.0379096,0</coordinates></Point></Placemark>
-<Placemark><name>Chez Lamine Hadj Mustapha — Souk Ablouh</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=31.0379096%2C-4.0077138</description>
+      <Point>
+        <coordinates>-4.0077138,31.0379096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chez Lamine Hadj Mustapha — Souk Ablouh</name>
+      <description>Марракеш
 Souk Ablouh 18–26, севернее Джемаа-эль-Фна
 Мешуи из печи или танжия; 100–200 MAD; 30.11 к 12:00–13:00. Проверить адрес Souk Ablouh, вес и итог.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6270278%2C-7.9876932</description><Point><coordinates>-7.9876932,31.6270278,0</coordinates></Point></Placemark>
-<Placemark><name>Al Fassia Guéliz</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=31.6270278%2C-7.9876932</description>
+      <Point>
+        <coordinates>-7.9876932,31.6270278,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Al Fassia Guéliz</name>
+      <description>Марракеш
 55 Boulevard Mohamed Zerktouni, Guéliz
 Небольшое ассорти салатов, пастилла или ягнёнок; 300–600 MAD; 30.11 к 17:30, по заказу. Уточнить размер порции на одного и наличные.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6359916%2C-8.0133642</description><Point><coordinates>-8.0133642,31.6359916,0</coordinates></Point></Placemark>
-<Placemark><name>Restaurant Khmissa</name><description>Эссуэйра
+https://www.google.com/maps/search/?api=1&amp;query=31.6359916%2C-8.0133642</description>
+      <Point>
+        <coordinates>-8.0133642,31.6359916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurant Khmissa</name>
+      <description>Эссуэйра
 Медина, район Rue Skala / Rue d’Agadir; pin точнее вариаций адреса
 Рыба дня с чермулой или рыбный тажин; 100–220 MAD; Обед 01.12 около 13:00. Спросить о свежем улове.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5137487%2C-9.7714346</description><Point><coordinates>-9.7714346,31.5137487,0</coordinates></Point></Placemark>
-<Placemark><name>Restaurant Adwak</name><description>Эссуэйра
+https://www.google.com/maps/search/?api=1&amp;query=31.5137487%2C-9.7714346</description>
+      <Point>
+        <coordinates>-9.7714346,31.5137487,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Restaurant Adwak</name>
+      <description>Эссуэйра
 36 Rue de Baghdad, médina
 Местное блюдо дня, рыбный или мясной тажин; 100–220 MAD; Запасной вариант, если Khmissa закрыта или занята.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.5129204%2C-9.7711223</description><Point><coordinates>-9.7711223,31.5129204,0</coordinates></Point></Placemark>
-<Placemark><name>La Sqala</name><description>Касабланка
+https://www.google.com/maps/search/?api=1&amp;query=31.5129204%2C-9.7711223</description>
+      <Point>
+        <coordinates>-9.7711223,31.5129204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Sqala</name>
+      <description>Касабланка
 Boulevard des Almohades, старые укрепления
 Марокканские салаты и тажин; 180–350 MAD; Ужин 02.12; рядом с ночлегом. При дневном вылете 03.12 завтрак здесь не планировать.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=33.6028481%2C-7.6192120</description><Point><coordinates>-7.619212,33.6028481,0</coordinates></Point></Placemark>
-<Placemark><name>Bureau de change Hotel Ali</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=33.6028481%2C-7.6192120</description>
+      <Point>
+        <coordinates>-7.619212,33.6028481,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bureau de change Hotel Ali</name>
+      <description>Марракеш
 Rue Moulay Ismail, край Jemaa el-Fna
 Сравнить курс покупки EUR/USD и итог без комиссии. Не обещание лучшего курса в день визита.
-точка объекта
-https://www.google.com/maps/search/?api=1&amp;query=31.6245820%2C-7.9897782</description><Point><coordinates>-7.9897782,31.624582,0</coordinates></Point></Placemark>
-<Placemark><name>Обмен у башни Хасана: точка для сравнения</name><description>Рабат
+https://www.google.com/maps/search/?api=1&amp;query=31.6245820%2C-7.9897782</description>
+      <Point>
+        <coordinates>-7.9897782,31.624582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Обмен у башни Хасана: точка для сравнения</name>
+      <description>Рабат
 
 Название, лицензия и часы не подтверждены. Это картографический кандидат, не рекомендация отдавать деньги без проверки вывески и квитанции.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=34.0248100%2C-6.8262600</description><Point><coordinates>-6.82626,34.02481,0</coordinates></Point></Placemark>
-<Placemark><name>Belaid Finance: обмен у Bab Boujloud</name><description>Фес
+https://www.google.com/maps/search/?api=1&amp;query=34.0248100%2C-6.8262600</description>
+      <Point>
+        <coordinates>-6.82626,34.02481,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belaid Finance: обмен у Bab Boujloud</name>
+      <description>Фес
 49 Place Boujloud, Kasbat Boujloud
 Точный вход и курс проверить на месте; адрес известен, координата района ориентировочная.
-ориентир / требует подтверждения
-https://www.google.com/maps/search/?api=1&amp;query=34.0613354%2C-4.9838228</description><Point><coordinates>-4.9838228,34.0613354,0</coordinates></Point></Placemark>
-<Placemark><name>Gare ONCF Marrakech: железнодорожный вокзал</name><description>Марракеш
+https://www.google.com/maps/search/?api=1&amp;query=34.0613354%2C-4.9838228</description>
+      <Point>
+        <coordinates>-4.9838228,34.0613354,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gare ONCF Marrakech: железнодорожный вокзал</name>
+      <description>Марракеш
 Avenue Hassan II / Avenue Mohammed VI
 Резерв 02.12: после Supratours из Эссуэйры перейти к поездам ONCF в Касабланку. На пересадку 60–90 минут.
-ориентир здания; вход по указателям ONCF
-https://www.google.com/maps/search/?api=1&amp;query=31.63096%2C-8.017262</description><Point><coordinates>-8.017262,31.63096,0</coordinates></Point></Placemark>
-</Document></kml>
+https://www.google.com/maps/search/?api=1&amp;query=31.63096%2C-8.017262</description>
+      <Point>
+        <coordinates>-8.017262,31.63096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riad Dar Al Manzah</name>
+      <description>Рабат
+17 Impasse Sidi Youssef, Rabat Medina
+22–23.11 · ≈ 197–208 MAD · Заезд 12:30–22:00 · выезд 10:00–11:00
+https://www.google.com/maps/search/?api=1&amp;query=34.0256180%2C-6.8409670</description>
+      <Point>
+        <coordinates>-6.840967,34.025618,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maison Famille Tazi</name>
+      <description>Фес
+1 Derb Roum, Talaa Seghira, Fès El Bali
+23–24.11 · ≈ 236 MAD · Заезд 08:30–13:30 · выезд до 12:00
+https://www.google.com/maps/search/?api=1&amp;query=34.0627333%2C-4.9772000</description>
+      <Point>
+        <coordinates>-4.9772,34.062733333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guest House Nomad Life</name>
+      <description>Мерзуга
+Qser Merzouga, 52202
+25–26.11 · ≈ 197 MAD · Заезд 12:00–23:00 · выезд до 10:00
+https://www.google.com/maps/search/?api=1&amp;query=31.0945333%2C-4.0164000</description>
+      <Point>
+        <coordinates>-4.0164,31.094533333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dar Relax Hostel, Gorges de Todra</name>
+      <description>Тодра
+Tizgui, Gorges de Todra, 45800 Tinghir
+26–28.11 · ≈ 295 MAD · Заезд 14:00–23:00 · выезд 10:30–11:00
+https://www.google.com/maps/search/?api=1&amp;query=31.5741000%2C-5.5839833</description>
+      <Point>
+        <coordinates>-5.583983333333333,31.5741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auberge Ksar Ait Ben Haddou</name>
+      <description>Айт-Бен-Хадду
+Aït Ben Haddou, 45000
+28–29.11 · ≈ 376 MAD · Заезд 13:00–00:00 · выезд 08:30–12:00
+https://www.google.com/maps/search/?api=1&amp;query=31.0468500%2C-7.1352167</description>
+      <Point>
+        <coordinates>-7.1352166666666665,31.04685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boho 27 Hostel Marrakech</name>
+      <description>Марракеш
+27 Derb Cherkaoui, Douar Graoua, Medina
+29.11–01.12 · ≈ 305 MAD · Заезд 29.11 · выезд 01.12
+https://www.google.com/maps/search/?api=1&amp;query=31.6247333%2C-7.9834000</description>
+      <Point>
+        <coordinates>-7.9834,31.62473333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hostel &amp; Riad</name>
+      <description>Эссуэйра
+16 Rue Laghrissi, Essaouira
+01–02.12 · ≈ 131 MAD · Заезд 15:00–23:00 · выезд 08:30–11:00
+https://www.google.com/maps/search/?api=1&amp;query=31.5143000%2C-9.7665500</description>
+      <Point>
+        <coordinates>-9.76655,31.5143,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ryad 91</name>
+      <description>Касабланка
+91 Rue de Fès, Sidi Belyout, Casablanca
+02–03.12 · 430,61 MAD · Заезд с 14:00 · выезд до 12:00
+https://www.google.com/maps/search/?api=1&amp;query=33.5978500%2C-7.6171500</description>
+      <Point>
+        <coordinates>-7.6171500000000005,33.59785,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Pain Bül</name>
+      <description>Рабат
+10 Av. Amir Moulay Abdellah, Rabat
+Завтрак 23.11 · открывается в 06:00 · континентальный завтрак 31 MAD по меню
+https://www.google.com/maps/search/?api=1&amp;query=Le+Pain+Bul+10+Av.+Amir+Moulay+Abdellah+Rabat</description>
+      <Point>
+        <coordinates>-6.8349647,34.0174732,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

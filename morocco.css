@@ -95,3 +95,23 @@ footer{display:flex;align-items:center;justify-content:space-between;gap:20px;ma
 }
 @media(max-width:370px){.site-header nav a{padding-inline:7px;font-size:11px}.brand-name small{font-size:9px}.page{padding-inline:12px}.day-panel{padding-inline:15px}.trip-meta{gap:12px}.panel-actions button{font-size:10px}}
 @media print{.site-header,.calendar,.planner-toolbar,.section-nav,.city-nav,.panel-actions,.copy-button,.map-controls,.skip{display:none!important}body{font-size:11pt;background:#fff;color:#111}.page{max-width:none;padding:0}.planner{display:block}.js .day-panel{display:block!important}.page-heading{margin-bottom:16px}.trip-meta{display:none}.day-panel,section{border:1px solid #bbb;box-shadow:none;padding:16px;margin:16px 0;break-inside:auto}.timeline li{break-inside:avoid}.map-box{display:none}.table-scroll{overflow:visible}.transfer-table{min-width:0}.planning-status>a,footer>a:last-child{display:none}footer{font-size:9pt}.day-heading h2{font-size:20pt}.timeline li>div{font-size:11pt}}
+
+/* Daily itinerary and meal cards */
+.day-page .adjacent { display:flex; flex-wrap:wrap; gap:12px; margin:18px 0; }
+.day-page .section-nav { margin:0 0 16px; }
+.day-page section { scroll-margin-top:100px; }
+.meal-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; }
+.meal { padding:14px; border:1px solid #ded7c9; border-radius:12px; background:#fffdf8; min-width:0; }
+.meal-top { display:flex; flex-wrap:wrap; align-items:baseline; gap:5px 10px; justify-content:space-between; border-bottom:1px solid #e9e2d6; padding-bottom:8px; }
+.meal-top h3 { margin:0; }
+.meal-top strong, .booking-amount { color:#235a4c; white-space:nowrap; }
+.meal-venue { font-weight:700; margin:10px 0 4px; }
+.meal p:not(.meal-venue) { margin:4px 0 10px; }
+.meal-total { margin:14px 0 4px; }
+.booking-card { display:flex; flex-wrap:wrap; gap:12px; justify-content:space-between; align-items:flex-start; }
+.booking-card h3 { margin:4px 0; }
+.booking-card p { margin:0; }
+.booking-amount { font-size:1.2rem; }
+.day-meal-preview { margin:10px 0 0; }
+.day-links { align-items:center; }
+@media(max-width:750px) { .meal-grid { grid-template-columns:1fr; } }

@@ -3,66 +3,132 @@
     {
       "n": 1,
       "date": "22.11",
-      "title": "Москва → Рабат",
+      "title": "Москва → Касабланка → Рабат",
       "city": "rabat",
-      "night": "oussama",
+      "night": "manzah",
       "walk": "5–8 км",
       "events": [
         [
+          "05:20 · Москва",
+          "Приехать в Шереметьево C за три часа до вылета."
+        ],
+        [
           "08:20 → 11:35",
-          "Прямой AT221 SVO → CMN. Время сверить с билетом."
+          "Royal Air Maroc AT221, Шереметьево C → Касабланка T2. Часы местные."
         ],
         [
-          "11:35–13:30",
-          "Паспорт и багаж; обменять первые 150–200 EUR. Пройти к <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.3740580%2C-7.5787010\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">ж/д станции CMN в T1</a>."
+          "11:35–13:30 ≈",
+          "Паспортный контроль, обед и обмен. Если курс заметно хуже городского, взять 500–700 MAD на первые расходы. Поезд — с <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.3740580%2C-7.5787010\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">уровня −1 терминала 1</a>."
         ],
         [
-          "13:30–17:00 ≈",
-          "Поезда через <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5902297%2C-7.5900010\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Casa Voyageurs</a> до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0159887%2C-6.8368562\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Rabat Ville</a>. Касса ONCF, 100–150 MAD."
+          "После выхода из аэропорта",
+          "В кассе ONCF купить поезд через <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5902297%2C-7.5900010\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Casa Voyageurs</a> до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0159887%2C-6.8368562\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Rabat Ville</a>. Заложить 100–150 MAD. Приезд в Рабат ориентировочно 16:00–17:30."
         ],
         [
-          "17:00–18:30 ≈",
-          "Пешком 25–35 мин к <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0264800%2C-6.8343660\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Dar Oussama</a>. Если светло — <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0316566%2C-6.8358475\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Удайя</a>; иначе оставить её на утро."
-        ],
-        [
-          "18:30",
-          "Ужин <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0267279%2C-6.8339196\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Dar Zaki</a>, вода на завтра."
+          "До 22:00",
+          "Заселиться в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0256180%2C-6.8409670\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Riad Dar Al Manzah</a>. Если светло, пройти через <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0316566%2C-6.8358475\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">касбу Удайя</a> к океану. После заката — прогулка по медине и ужин."
         ]
       ],
-      "critical": "Поздний прилёт: сократить вечернюю прогулку, ночёвку в Рабате сохранить.",
-      "weekday": "вс"
+      "critical": "В Рабате заселиться до 22:00. Для утреннего поезда в Фес заранее договориться, как рассчитаться и оставить ключ до 08:00.",
+      "weekday": "вс",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "На борту AT221",
+          "location": null,
+          "order": "Выбрать горячее с яйцом или курицей, если будет на выбор. Чай или кофе. Стандартное бортпитание входит в билет.",
+          "mad": [
+            0,
+            0
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Кафе в зоне прилёта CMN, T2",
+          "location": "https://www.google.com/maps/search/?api=1&query=A%C3%A9roport+Mohammed+V+Terminal+2+arrivals+caf%C3%A9",
+          "order": "Сэндвич с курицей и кофе перед поездом. Если до посадки мало времени, взять навынос.",
+          "mad": [
+            60,
+            100
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Dar Naji, Bab El Had, Рабат",
+          "location": "https://www.google.com/maps/search/?api=1&query=Dar+Naji+Bab+El+Had+Rabat",
+          "order": "Куриный тажин с солёным лимоном и оливками, хлеб. На ужин после заселения.",
+          "mad": [
+            65,
+            100
+          ]
+        }
+      ],
+      "page": "morocco-day-01.html"
     },
     {
       "n": 2,
       "date": "23.11",
       "title": "Рабат → Фес",
       "city": "fes",
-      "night": "verus",
-      "walk": "14–18 км",
+      "night": "tazi",
+      "walk": "9–15 км",
       "events": [
         [
-          "08:15–09:15",
-          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0316566%2C-6.8358475\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Удайя</a>, если не успел вчера. Затем пешком к башне."
+          "07:00–08:05",
+          "Выйти из Riad Dar Al Manzah около 07:00 по договорённости с хозяином. Завтрак в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Le+Pain+Bul+10+Av.+Amir+Moulay+Abdellah+Rabat\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Le Pain Bül</a> около 07:20. На <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0159887%2C-6.8368562\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Rabat Ville</a> быть к 08:05."
         ],
         [
-          "09:45–12:30",
-          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0241489%2C-6.8227957\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Башня и мавзолей</a> до 10:30 → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0070329%2C-6.8215994\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Шелла</a> 11:00–12:30. Между ними около 30 мин пешком."
+          "08:33 → 11:33 ≈",
+          "Прямой Al Atlas в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0454103%2C-5.0042926\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Фес</a> как ориентир, 90–140 MAD на билет. Сверить рейс и места у ONCF. Купить билет на ночной автобус в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0458130%2C-5.0041720\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours</a> рядом с вокзалом, если это укладывается в запас до заселения."
         ],
         [
-          "12:30–14:00",
-          "Еда, забрать вещи; <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0159887%2C-6.8368562\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Rabat Ville</a>. Купить поезд в Фес, 90–140 MAD."
+          "До 13:00",
+          "От вокзала взять petit taxi к Bab Bou Jeloud или Batha, далее пешком до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0627333%2C-4.9772000\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Maison Famille Tazi</a>. Резерв на такси 20–40 MAD."
         ],
         [
-          "14:00–18:30 ≈",
-          "Поезд → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0454103%2C-5.0042926\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Fès</a>. Купить билет в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0458130%2C-5.0041720\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours</a> на ночь 24.11."
+          "После 13:00",
+          "Обед у Синих ворот. Днём пройти по Talaa Kebira и Talaa Seghira. Если не купил билет Supratours, вернуться в кассу до закрытия."
         ],
         [
-          "После приезда",
-          "Пешком 55–75 мин к <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0594680%2C-4.9789310\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Riad Verus</a>. Заселение и простой ужин."
+          "Вечером",
+          "Прогулка по медине Феса и ужин. Если согласован поздний заезд в Фесе, утром в Рабате можно посетить <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0241489%2C-6.8227957\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">башню Хасана</a> и <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0070329%2C-6.8215994\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Шеллу</a>."
         ]
       ],
-      "critical": "Если Supratours закрыт, купить билет утром 24.11 до осмотра медины.",
-      "weekday": "пн"
+      "critical": "Приём в Maison Famille Tazi заканчивается в 13:30 по подтверждению. Если не получится выехать из Рабата утром, получить письменное согласие риада на поздний заезд.",
+      "weekday": "пн",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Le Pain Bül, 10 Av. Amir Moulay Abdellah, Рабат",
+          "location": "https://www.google.com/maps/search/?api=1&query=Le+Pain+Bul+10+Av.+Amir+Moulay+Abdellah+Rabat",
+          "order": "Зайти около 07:20. Континентальный завтрак за 31 MAD по меню: омлет или скрэмбл, хлеб, сок и кофе либо чай. Пекарня открывается в 06:00, до Rabat Ville около 5–7 минут пешком. Если времени мало, взять выпечку и кофе навынос.",
+          "mad": [
+            25,
+            40
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Chez Rachid у Bab Bou Jeloud, Фес",
+          "location": "https://www.google.com/maps/search/?api=1&query=Chez+Rachid+Bab+Boujloud+Fes",
+          "order": "После заселения взять комплекс с харирой, куриным тажином и десертом. Опубликованный ориентир за меню — 70 MAD.",
+          "mad": [
+            70,
+            85
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Café Clock, Фес",
+          "location": "https://www.google.com/maps/search/?api=1&query=Cafe+Clock+7+Derb+el+Magana+Fes",
+          "order": "Бургер из верблюжатины с салатом и картофелем по меню 110 MAD. Мятный чай по желанию.",
+          "mad": [
+            110,
+            125
+          ]
+        }
+      ],
+      "page": "morocco-day-02.html"
     },
     {
       "n": 3,
@@ -78,11 +144,11 @@
         ],
         [
           "12:30–16:30",
-          "Обед <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0673793%2C-4.9738478\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Dar Hatim</a> по заказу → рынки. Обменять деньги в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0613354%2C-4.9838228\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Belaid Finance</a>: перед югом иметь 2 500–3 500 MAD. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0698100%2C-4.9794100\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Панорама у гробниц</a> по силам."
+          "Обед и рынки. Обмен в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0613354%2C-4.9838228\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Belaid Finance</a> перед югом. По времени и силам — <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0698100%2C-4.9794100\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">панорама с холма Маринидов</a>."
         ],
         [
-          "17:00–18:00",
-          "Забрать вещи, купить воду и перекус. Выйти пешком к Supratours: 3,5–4 км."
+          "До 12:00 · выезд / после 17:00 · отъезд",
+          "Договориться о хранении рюкзака после выезда. Вечером забрать вещи и поесть у вокзала. Пешком до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=34.0458130%2C-5.0041720\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours</a> заложить 60–75 минут."
         ],
         [
           "19:45 → 20:30 ≈",
@@ -90,23 +156,56 @@
         ]
       ],
       "critical": "Билет купить заранее. Это сидячий автобус; утро в Мерзуге оставлено для отдыха.",
-      "weekday": "вт"
+      "weekday": "вт",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Maison Famille Tazi, Фес",
+          "location": "https://www.google.com/maps/search/?api=1&query=34.0627333%2C-4.9772000",
+          "order": "Завтрак по брони. Хлеб или лепёшки, варенье и кофе или чай, точный набор зависит от риада.",
+          "mad": [
+            0,
+            0
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Café Clock, Фес",
+          "location": "https://www.google.com/maps/search/?api=1&query=Cafe+Clock+7+Derb+el+Magana+Fes",
+          "order": "Рфисса с курицей, чечевицей и тонкими лепёшками, 90 MAD по меню. Есть время поесть между медресе и рынками.",
+          "mad": [
+            90,
+            105
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Снэк у Gare Fès / Supratours",
+          "location": "https://www.google.com/maps/search/?api=1&query=Gare+de+F%C3%A8s",
+          "order": "После получения рюкзака взять горячий сэндвич с кефтой или курицей, фрукт и воду на ночной автобус. Закончить к 19:30.",
+          "mad": [
+            40,
+            65
+          ]
+        }
+      ],
+      "page": "morocco-day-03.html"
     },
     {
       "n": 4,
       "date": "25.11",
       "title": "Мерзуга · дюны",
       "city": "merzouga",
-      "night": "gout",
+      "night": "nomad",
       "walk": "6–10 км, песок",
       "events": [
         [
           "06:00–08:00 ≈",
-          "Высадка; сохранить точку посадки. В <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.0970079%2C-4.0104943\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Le Gout du Sahara</a> оставить вещи. Купить билет в Тингир на 26.11."
+          "Высадка у <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.0987556%2C-4.0173168\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Supratours</a>. Сохранить точку посадки. Если договорились с <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.0945333%2C-4.0164000\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Guest House Nomad Life</a>, оставить рюкзак. Уточнить время автобуса в Тингир и купить билет на 26.11."
         ],
         [
           "08:00–14:30",
-          "Завтрак, отдых, заселение. Раннюю кровать согласовать отдельно; купить воду."
+          "Завтрак в посёлке, отдых после автобуса. Заселение с 12:00, затем обед и закупка воды."
         ],
         [
           "15:00–18:00 ≈",
@@ -117,24 +216,57 @@
           "Ужин в посёлке; вода на утренний автобус. Ночлег у дюн, без удалённого лагеря."
         ]
       ],
-      "critical": "Перед выходом в пески рассчитать обратный путь. Дальний лагерь мешает автобусу в 07:30.",
-      "weekday": "ср"
+      "critical": "Приезд около 06:00, заселение с 12:00. Согласовать ранний приём рюкзака, а на следующее утро — выезд и завтрак навынос к 06:30.",
+      "weekday": "ср",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Лавки на главной улице Мерзуги",
+          "location": "https://www.google.com/maps/search/?api=1&query=Merzouga+centre+N13",
+          "order": "Когда откроются, взять мсемен или хлеб с яйцами и мятным чаем. На первые часы пригодится перекус из Феса.",
+          "mad": [
+            20,
+            40
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Café Restaurant Chez Youssef, Мерзуга",
+          "location": "https://www.google.com/maps/search/?api=1&query=Cafe+Restaurant+Chez+Youssef+Merzouga",
+          "order": "После заселения заказать кефту или куриный тажин с хлебом. Порцию и цену спросить при заказе.",
+          "mad": [
+            55,
+            85
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Guest House Nomad Life или кафе на главной улице",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.0945333%2C-4.0164000",
+          "order": "У хозяев заранее спросить, готовят ли курицу с овощами. Если кухни нет, вернуться в Chez Youssef за шашлычками. Взять еду на ранний автобус.",
+          "mad": [
+            65,
+            105
+          ]
+        }
+      ],
+      "page": "morocco-day-04.html"
     },
     {
       "n": 5,
       "date": "26.11",
       "title": "Мерзуга → Тодра",
       "city": "todra",
-      "night": "secret",
+      "night": "relax",
       "walk": "6–10 км",
       "events": [
         [
           "07:00 → 07:30 ≈",
-          "На <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.0987556%2C-4.0173168\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">посадке Supratours</a> к 07:00; выезд в Тингир около 07:30."
+          "На <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.0987556%2C-4.0173168\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">посадке Supratours</a> к 07:00. Выезд около 07:30 по кассовому билету. Завтрак взять с собой."
         ],
         [
           "12:00–14:00 ≈",
-          "В Тингире купить билет на 28.11 до Уарзазата и сохранить посадку. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5209261%2C-5.5300518\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Grand taxi</a> до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5781790%2C-5.5865910\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">A Secret Garden</a>: 10–20 MAD за место."
+          "В Тингире купить билет в Уарзазат на 28.11. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5209261%2C-5.5300518\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Grand taxi</a> до Тизги, 10–20 MAD за место. Заселение в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5741000%2C-5.5839833\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Dar Relax Hostel, Gorges de Todra</a> с 14:00."
         ],
         [
           "14:00–16:30",
@@ -142,18 +274,51 @@
         ],
         [
           "Вечером",
-          "Домашний ужин; проверить трек, погоду и обувь для похода. Заказать машину на 28.11, 09:45."
+          "Ужин в Тизги, проверка погоды и трека. Заказать машину на 28.11 в 09:45 и договориться с хостелом о раннем расчёте."
         ]
       ],
       "critical": "В Тингире сохранить фактическую посадку автобуса на 28.11. Обратную машину из Тизги заказать с прибытием за час до него.",
-      "weekday": "чт"
+      "weekday": "чт",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Guest House Nomad Life, Мерзуга",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.0945333%2C-4.0164000",
+          "order": "Завтрак включён. С вечера попросить пакет с хлебом, сыром или яйцом к 06:30. Если не смогут, купить накануне.",
+          "mad": [
+            0,
+            30
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Закусочные у Grand taxi в Тингире",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.5209261%2C-5.5300518",
+          "order": "После покупки билета в Уарзазат взять сэндвич с кефтой или курицей и свежий апельсин. Можно взять с собой в Тизги.",
+          "mad": [
+            35,
+            60
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Dar Relax Hostel, Тизги",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.5741000%2C-5.5839833",
+          "order": "Заказать домашний тажин из курицы с овощами и хлебом, цену спросить при заезде. Попросить заранее собрать перекус на кольцо.",
+          "mad": [
+            65,
+            110
+          ]
+        }
+      ],
+      "page": "morocco-day-05.html"
     },
     {
       "n": 6,
       "date": "27.11",
       "title": "Кольцо Тодры",
       "city": "todra",
-      "night": "secret",
+      "night": "relax",
       "walk": "10–11 км · +500–750 м",
       "events": [
         [
@@ -162,31 +327,64 @@
         ],
         [
           "08:30–14:30",
-          "Каньон → подъём → плато → спуск к Тизги. <a href=\"morocco-todra.html#loop\" class=\"\">Трек и детали похода</a>."
+          "Каньон → подъём → плато → спуск к Тизги. <a href=\"morocco-day-06.html#loop\" class=\"\">Трек и детали похода</a>."
         ],
         [
           "После 14:30",
-          "Обед и отдых; вечером подтвердить водителя на завтра, цену, багаж и точную посадку автобуса."
+          "Отдых и сады Тизги по желанию. Вечером подтвердить водителя, цену и ранний выезд из Dar Relax."
         ]
       ],
       "critical": "При осадках, льде, сильном ветре или плохой видимости — долина. На плато развилки и осыпь: нужен скачанный трек и цепкая обувь.",
-      "weekday": "пт"
+      "weekday": "пт",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Dar Relax Hostel, Тизги",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.5741000%2C-5.5839833",
+          "order": "Завтрак включён. Хлеб или лепёшки, чай, яйца, если есть. Поесть до выхода в 08:30.",
+          "mad": [
+            0,
+            0
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "На тропе кольца Тодры, взять из Тизги",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.5884880%2C-5.5938417",
+          "order": "Хлеб или сэндвич, сыр, орехи и финики. Купить или попросить собрать вечером 26.11. Воду на тропу взять отдельно.",
+          "mad": [
+            25,
+            50
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Relax Food, Тизги",
+          "location": "https://www.google.com/maps/search/?api=1&query=Restaurant+Relax+Food+Gorges+de+Todra+Tizgui",
+          "order": "Куриные шашлычки или тажин с кефтой и хлебом. Заказать после возвращения и уточнить, когда закрывается кухня.",
+          "mad": [
+            65,
+            110
+          ]
+        }
+      ],
+      "page": "morocco-day-06.html"
     },
     {
       "n": 7,
       "date": "28.11",
       "title": "Тодра → Айт-Бен-Хадду",
       "city": "ait",
-      "night": "baraka",
+      "night": "ksarauberge",
       "walk": "5–8 км",
       "events": [
         [
           "До 09:15",
-          "Завтрак, вещи, короткая прогулка по долине."
+          "Завтрак, вещи, короткая прогулка по долине. Сдать ключ и рассчитаться до 09:30 по договорённости с Dar Relax Hostel."
         ],
         [
           "09:45 → 10:30–11:00",
-          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5781790%2C-5.5865910\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Заказанная машина</a> → точная посадка в Тингире. 80–150 MAD за всю машину."
+          "Заказанная машина от <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5741000%2C-5.5839833\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Dar Relax Hostel</a> до места посадки в Тингире. 80–150 MAD за всю машину."
         ],
         [
           "12:00 → 15:00 ≈",
@@ -194,15 +392,48 @@
         ],
         [
           "15:00–17:00 ≈",
-          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=30.9253500%2C-6.9282400\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Grand taxi</a> → Айт, 20–30 MAD за место. Заселиться в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.0427560%2C-7.1304140\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">La Baraka</a>."
+          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=30.9253500%2C-6.9282400\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Grand taxi</a> → Айт, 20–30 MAD за место. Заселиться в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.0468500%2C-7.1352167\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Auberge Ksar Ait Ben Haddou</a>."
         ],
         [
           "Вечером",
-          "Вид ксара с берега, если светло. Ужин в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.0430570%2C-7.1309100\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Kasbah Valentine</a>; машина завтра на 10:30."
+          "Если светло, посмотреть на ксар с берега. Ужин в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Sunset+Restaurant+Ait+Ben+Haddou\" class=\"\" target=\"_blank\" rel=\"noopener noreferrer\">Sunset Restaurant</a>. Заказать машину на 10:30."
         ]
       ],
       "critical": "Если машина в Айт не заполняется, согласовать выкуп мест; резерв 120–200 MAD за машину.",
-      "weekday": "сб"
+      "weekday": "сб",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Dar Relax Hostel, Тизги",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.5741000%2C-5.5839833",
+          "order": "Завтрак включён. Попросить подать до 08:30, чтобы рассчитаться до машины в 09:45.",
+          "mad": [
+            0,
+            0
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Лавки у места посадки в Тингире",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.5209261%2C-5.5300518",
+          "order": "Перед рейсом купить сэндвич с курицей или кефтой и банан. Съесть в дороге или на пересадке в Уарзазате.",
+          "mad": [
+            35,
+            60
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Sunset Restaurant, Айт-Бен-Хадду",
+          "location": "https://www.google.com/maps/search/?api=1&query=Sunset+Restaurant+Ait+Ben+Haddou",
+          "order": "Тажин из баранины с черносливом и курагой за 100 MAD по меню. Чай по желанию, кухня до 21:30.",
+          "mad": [
+            100,
+            125
+          ]
+        }
+      ],
+      "page": "morocco-day-07.html"
     },
     {
       "n": 8,
@@ -214,7 +445,7 @@
       "events": [
         [
           "08:15–10:15 ≈",
-          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.047220%2C-7.128890\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Ксар Айт-Бен-Хадду</a>: мост, улицы и подъём; 3–5 км. Затем вещи."
+          "Завтрак по брони и прогулка по <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.047220%2C-7.128890\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">ксару Айт-Бен-Хадду</a>: мост, переулки, подъём к панораме. Если завтрак подают после 08:15, сократить круг, чтобы сохранить выезд в 10:30."
         ],
         [
           "10:30 → 11:30 ≈",
@@ -230,11 +461,44 @@
         ],
         [
           "После автобуса",
-          "Petit taxi к согласованной с <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6247300%2C-7.9833940\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Boho 27</a> точке у медины, затем 5–15 мин пешком. Всего 30–50 мин; резерв 50–100 MAD. Позднее заселение согласовать."
+          "Petit taxi к согласованной с <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.6247333%2C-7.9834000\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Boho 27</a> точке у медины, затем 5–15 минут пешком. Резерв 50–100 MAD. Заранее подтвердить поздний заезд, наличные MAD и отсутствие проверки карты."
         ]
       ],
       "critical": "Основной план сохраняет 2 часа на Айт утром. Более ранний автобус — только по купленному билету; отдельный вариант ниже.",
-      "weekday": "вс"
+      "weekday": "вс",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Auberge Ksar Ait Ben Haddou",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.0468500%2C-7.1352167",
+          "order": "Завтрак включён. Спросить с вечера, можно ли поесть до 08:15. При более поздней подаче зайти после короткой прогулки.",
+          "mad": [
+            0,
+            0
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Chez Dimitri, Avenue Mohammed V, Уарзазат",
+          "location": "https://www.google.com/maps/search/?api=1&query=Restaurant+Chez+Dimitri+22+Avenue+Mohamed+V+Ouarzazate",
+          "order": "Тажин или шашлычки с салатом. Если между автобусами меньше 90 минут, взять сэндвич у станции вместо похода в центр.",
+          "mad": [
+            35,
+            115
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Стойки с едой на Джемаа-эль-Фна, Марракеш",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.6258306%2C-7.9889197",
+          "order": "Горячая харира и порция кефты или куриных шашлычков. Спросить полную цену порции до заказа. Если автобус опоздает, взять сэндвич у станции.",
+          "mad": [
+            45,
+            80
+          ]
+        }
+      ],
+      "page": "morocco-day-08.html"
     },
     {
       "n": 9,
@@ -262,14 +526,47 @@
         ]
       ],
       "critical": "Автомобиль не подъедет к каждому риаду. У хозяина заранее получить точную точку встречи и путь к ней.",
-      "weekday": "пн"
+      "weekday": "пн",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Пекарня на Rue Riad Zitoun el Jdid у Бахии",
+          "location": "https://www.google.com/maps/search/?api=1&query=Rue+Riad+Zitoun+el+Jdid+Marrakech",
+          "order": "Мсемен или харча, варёное яйцо и café nous-nous. Зайти по дороге от хостела к дворцу.",
+          "mad": [
+            18,
+            35
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Chez Lamine Hadj Mustapha, Souk Ablouh",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.6270278%2C-7.9876932",
+          "order": "Одна порция танжии с хлебом. Если хочется печёной баранины, спросить мешуи и цену порции заранее. Прийти в обед, пока выбор больше.",
+          "mad": [
+            70,
+            120
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Al Fassia Guéliz, Марракеш",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.6359916%2C-8.0133642",
+          "order": "Один тажин с бараниной и черносливом или курицей, к нему чай по желанию. По возможности заказать столик и уточнить наличные.",
+          "mad": [
+            150,
+            230
+          ]
+        }
+      ],
+      "page": "morocco-day-09.html"
     },
     {
       "n": 10,
       "date": "01.12",
       "title": "Марракеш → Эссуэйра",
       "city": "essaouira",
-      "night": "chill",
+      "night": "hostelriad",
       "walk": "8–13 км",
       "events": [
         [
@@ -278,31 +575,64 @@
         ],
         [
           "07:30 → 10:30 ≈",
-          "Автобус до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5108550%2C-9.7670841\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Bab Marrakech</a>, 100–140 MAD. До <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5146180%2C-9.7706220\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Chill Art</a> 15–20 мин пешком; оставить вещи."
+          "Supratours до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5108550%2C-9.7670841\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Bab Marrakech</a>, 100–140 MAD. Если <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5143000%2C-9.7665500\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Hostel &amp; Riad</a> согласится, оставить рюкзак. Заселение с 15:00."
         ],
         [
           "11:00–15:00",
-          "Проверить билет CTM на завтра → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5094500%2C-9.7726800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">порт</a> → обед <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5137487%2C-9.7714346\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Khmissa</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5147700%2C-9.7735800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">стены</a>. Если прямого CTM нет — купить утренний Supratours в Марракеш."
+          "Проверить билет в Касабланку. Затем <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5094500%2C-9.7726800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">рыбацкий порт</a>, обед у грилей и <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5147700%2C-9.7735800\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">океанские стены</a>."
         ],
         [
           "15:00–18:00",
-          "<a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5074000%2C-9.7683000\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Пляж</a> и медина. Купание только при подходящем море."
+          "Заселение в Hostel & Riad, затем <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5074000%2C-9.7683000\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">пляж</a> и медина. Ужин в Khmissa."
         ]
       ],
       "critical": "План на 02.12 выбрать сегодня: прямой CTM или ранний автобус в Марракеш + поезд. Их станции в Эссуэйре различаются.",
-      "weekday": "вт"
+      "weekday": "вт",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Пекарня у Boho 27, купить вечером 30.11",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.6247333%2C-7.9834000",
+          "order": "Мсемен с сыром или сэндвич с яйцом, банан. Кофе взять у станции, если уже открыто. Съесть до посадки или в дороге.",
+          "mad": [
+            20,
+            40
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Грили у рыбацкого порта Эссуэйры",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.5094500%2C-9.7726800",
+          "order": "Одна порция сардин на углях с хлебом и салатом. Согласовать итог за рыбу, жарку и гарнир до заказа.",
+          "mad": [
+            50,
+            80
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "Restaurant Khmissa, медина Эссуэйры",
+          "location": "https://www.google.com/maps/search/?api=1&query=31.5137487%2C-9.7714346",
+          "order": "Рыбный суп или тажин с курицей и солёным лимоном, если после обеда хочется мяса. Бюджет за одно блюдо и чай.",
+          "mad": [
+            70,
+            125
+          ]
+        }
+      ],
+      "page": "morocco-day-10.html"
     },
     {
       "n": 11,
       "date": "02.12",
       "title": "Эссуэйра → Касабланка",
       "city": "casablanca",
-      "night": "central",
+      "night": "ryad91",
       "walk": "5–9 км",
       "events": [
         [
           "07:30–08:45",
-          "Завтрак и вещи. Из медины идти к <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5041175%2C-9.7569901\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">станции CTM</a>: 2–2,5 км / 35–50 мин."
+          "Завтрак и вещи. По брони выезд с 08:30. Для более раннего автобуса согласовать сдачу ключа заранее. До <a href=\"https://www.google.com/maps/search/?api=1&amp;query=31.5041175%2C-9.7569901\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">станции CTM</a> заложить 35–50 минут пешком."
         ],
         [
           "09:30 → 10:00 ≈",
@@ -310,7 +640,7 @@
         ],
         [
           "16:30–18:00 ≈",
-          "От <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5960595%2C-7.6114350\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">FAR</a> до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.6000885%2C-7.6173257\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Hotel Central</a> 15–25 мин пешком. Заселение."
+          "Приезд на <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5960595%2C-7.6114350\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">CTM Casablanca FAR</a>. Затем 10–15 минут пешком до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5978500%2C-7.6171500\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Ryad 91</a>, 91 Rue de Fès. <a href=\"https://www.google.com/maps/dir/?api=1&amp;origin=33.5960595%2C-7.611435&amp;destination=33.59785%2C-7.6171500000000005&amp;travelmode=walking\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Маршрут пешком</a>."
         ],
         [
           "18:30",
@@ -318,7 +648,40 @@
         ]
       ],
       "critical": "Прямой CTM — только при наличии билета. Резерв через Марракеш выбрать накануне, а не утром после пропущенного рейса.",
-      "weekday": "ср"
+      "weekday": "ср",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Café Bissmillah, Rue Qadisiya, Эссуэйра",
+          "location": "https://www.google.com/maps/search/?api=1&query=Cafe+Restaurant+Bissmillah+Rue+Qadisiya+Essaouira",
+          "order": "Мсемен 5 MAD, кофе с молоком около 15 MAD. Если выезд раньше открытия, купить завтрак с вечера.",
+          "mad": [
+            20,
+            40
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "Навынос из медины Эссуэйры",
+          "location": "https://www.google.com/maps/search/?api=1&query=Bab+Marrakech+Essaouira",
+          "order": "Перед выездом взять сэндвич с курицей, яблоко и орехи на автобус. Остановка с горячей едой зависит от рейса.",
+          "mad": [
+            35,
+            60
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "La Sqala у старой медины Касабланки",
+          "location": "https://www.google.com/maps/search/?api=1&query=33.6028481%2C-7.6192120",
+          "order": "Тажин с кебабом и яйцом, в опубликованном меню 95 MAD. Взять чай или воду, ужин после заселения.",
+          "mad": [
+            105,
+            155
+          ]
+        }
+      ],
+      "page": "morocco-day-11.html"
     },
     {
       "n": 12,
@@ -326,31 +689,72 @@
       "title": "Касабланка → Москва",
       "city": "casablanca",
       "night": "flight",
-      "walk": "6–16 км по рейсу",
+      "walk": "4–8 км",
       "events": [
         [
-          "08:00–10:15",
-          "Пешком к <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.6082243%2C-7.6324728\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">мечети Хасана II</a>, прибыть к 08:30; сеанс 09:00, 140 MAD."
+          "08:00",
+          "Включённый завтрак в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5978500%2C-7.6171500\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Ryad 91</a>. Сдать ключ заранее и оставить рюкзак у стойки по согласованию."
         ],
         [
-          "AT222 · 15:10",
-          "После экскурсии — вещи → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5993825%2C-7.6123131\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Casa Port</a> → <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.3740580%2C-7.5787010\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">CMN</a> к 12:00. Накануне проверить, что конкретный поезд достижим; иначе сократить осмотр или заказать taxi в аэропорт."
+          "09:00 · по времени",
+          "Экскурсия в <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.6082243%2C-7.6324728\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">мечеть Хасана II</a>, 140 MAD. После завтрака взять petit taxi, чтобы быть у кассы к 08:30. Если не укладывается дорога до станции, оставить только внешнюю площадь."
         ],
         [
-          "Рейс AT220 · 21:55",
-          "После экскурсии свободный день. Поезд выбрать с прибытием в CMN к 18:30. Прилёт в Москву 04.12."
+          "10:25 · цель на вокзале",
+          "Забрать рюкзак. От Ryad 91 до <a href=\"https://www.google.com/maps/search/?api=1&amp;query=33.5993825%2C-7.6123131\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Casa Port</a> около 6–10 минут пешком. <a href=\"https://www.google.com/maps/dir/?api=1&amp;origin=33.59785%2C-7.6171500000000005&amp;destination=33.5993825%2C-7.6123131&amp;travelmode=walking\" class=\"place-link\" target=\"_blank\" rel=\"noopener noreferrer\">Маршрут до вокзала</a>. В опубликованной сетке ONCF есть 10:40 → 11:38, проверить поезд на 03.12. Если подходящего поезда нет, заранее заказать такси."
+        ],
+        [
+          "К 12:10 · CMN T1",
+          "Регистрация и контроль, затем обед. Если не успеваешь на выбранный поезд, выехать в аэропорт на такси."
+        ],
+        [
+          "15:10 → 00:25 (+1 день)",
+          "Прямой Royal Air Maroc AT222, Касабланка T1 → Шереметьево C. Прилёт в Москву в пятницу, 4 декабря."
         ]
       ],
-      "critical": "Время рейса сверить по билету. Поезд выбирать с прибытием минимум за 3 часа до вылета, включая запас на подход и ожидание.",
-      "weekday": "чт"
+      "critical": "Приоритет — терминал CMN T1 к 12:10. Осмотр мечети зависит от транспорта. Если рейс поезда после экскурсии не даёт запаса, взять заранее согласованное такси или остаться только на внешней площади.",
+      "weekday": "чт",
+      "meals": [
+        {
+          "slot": "Завтрак",
+          "place": "Ryad 91, Касабланка",
+          "location": "https://www.google.com/maps/search/?api=1&query=33.5978500%2C-7.6171500",
+          "order": "Завтрак включён. По опубликованным часам подача в будни с 08:00. По отзывам, завтрак подают на террасе, набор зависит от дня. Попросить чай или кофе и хлеб либо лепёшки. Если к 08:00 не успевают подать, взять порцию навынос.",
+          "mad": [
+            0,
+            0
+          ]
+        },
+        {
+          "slot": "Обед",
+          "place": "La Table du Marché, CMN T1",
+          "location": "https://www.google.com/maps/search/?api=1&query=La+Table+du+March%C3%A9+A%C3%A9roport+Casablanca+Terminal+1",
+          "order": "После регистрации и контроля взять сэндвич с курицей и напиток. Время и деньги можно сэкономить, купив обед навынос в городе.",
+          "mad": [
+            75,
+            135
+          ]
+        },
+        {
+          "slot": "Ужин",
+          "place": "На борту AT222",
+          "location": null,
+          "order": "Выбрать горячее с мясом или курицей, если будет на выбор, и чай. Стандартное бортпитание входит в билет.",
+          "mad": [
+            0,
+            0
+          ]
+        }
+      ],
+      "page": "morocco-day-12.html"
     }
   ],
   "transfers": [
     {
       "id": "airport-rabat",
       "date": "22.11",
-      "out": "13:30–14:30 ≈",
-      "arr": "16:30–17:00 ≈",
+      "out": "После прилёта в 11:35",
+      "arr": "Около 16:00–17:30",
       "origin": "cmn",
       "dest": "rabatville",
       "route": "CMN → Рабат",
@@ -365,14 +769,14 @@
     {
       "id": "rabat-fes",
       "date": "23.11",
-      "out": "14:00–15:00 ≈",
-      "arr": "17:00–18:30 ≈",
+      "out": "08:33 ≈",
+      "arr": "11:33 ≈",
       "origin": "rabatville",
       "dest": "fesgare",
       "route": "Рабат → Фес",
       "mode": "Поезд ONCF",
       "cost": "90–140",
-      "buy": "Касса Rabat Ville",
+      "buy": "Касса Rabat Ville · проверить Al Atlas на 23.11",
       "refs": [
         "T7"
       ]
@@ -475,383 +879,111 @@
     {
       "id": "casa-cmn",
       "date": "03.12",
-      "out": "Под время рейса",
-      "arr": "CMN к 12:00 или 18:30",
+      "out": "10:40 ≈ · сверить на 03.12",
+      "arr": "11:38 ≈ · CMN T1 к 12:10",
       "origin": "casaport",
       "dest": "cmn",
       "route": "Касабланка → CMN",
       "mode": "Поезд ONCF; путь с ожиданием 1–1,5 ч",
       "cost": "50–80",
-      "buy": "Касса Casa Port",
+      "buy": "Касса Casa Port или Casa Voyageurs",
       "refs": [
         "T7"
       ]
     }
   ],
-  "cities": {
-    "rabat": {
-      "stay": "22–23 ноября · 1 ночь",
-      "why": "Касба над океаном, мавзолей и руины Шеллы.",
-      "arr": "22.11 · около 16:30–17:00, Rabat Ville",
-      "dep": "23.11 · поезд в Фес около 14:00–15:00",
-      "arrival": "rabatville",
-      "main": [
-        "udaya",
-        "hassan",
-        "chellah"
-      ],
-      "sights": [
-        [
-          "udaya",
-          "22.11 вечером или 23.11 утром",
-          "60–90 мин",
-          "Бело-синие улицы и вид на устье реки."
-        ],
-        [
-          "hassan",
-          "23.11 · 09:45–10:30",
-          "45 мин",
-          "Башня и мавзолей Мухаммеда V."
-        ],
-        [
-          "chellah",
-          "23.11 · 11:00–12:30",
-          "1,5 ч",
-          "Античные руины и средневековый некрополь; зимний режим 09–18."
-        ]
-      ],
-      "food": [
-        "darzaki"
-      ],
-      "source": [
-        "A12",
-        "F1",
-        "H1",
-        "H2",
-        "H20"
-      ]
+  "lodging": {
+    "manzah": {
+      "name": "Riad Dar Al Manzah",
+      "day": 1,
+      "dates": "22–23.11",
+      "nights": 1,
+      "price_mad": "≈ 197–208 MAD",
+      "payment": "Завтрак в бронь не входит. На скриншоте €14 плюс около €4 городского налога. С учётом разницы между ценой со скидкой за онлайн-оплату и ценой без неё заложи 197–208 MAD. Итог в MAD и ранний выезд 23.11 уточнить у хозяина в WhatsApp.",
+      "hours": "Заезд 12:30–22:00 · выезд 10:00–11:00"
     },
-    "fes": {
-      "stay": "23–24 ноября · 1 ночь + ночной автобус",
-      "why": "Ремесленная медина, медресе и красильни.",
-      "arr": "23.11 · около 17:00–18:30, вокзал Fès",
-      "dep": "24.11 · Supratours около 20:30; на месте к 19:45",
-      "arrival": "fesgare",
-      "main": [
-        "babblue",
-        "bouinania",
-        "attarine",
-        "chouara",
-        "tombs"
-      ],
-      "sights": [
-        [
-          "babblue",
-          "24.11 · начало прогулки",
-          "15 мин",
-          "Вход в медину и начало Талаа-Кебира."
-        ],
-        [
-          "bouinania",
-          "Утро",
-          "30–45 мин",
-          "Декор медресе; при закрытии идти дальше."
-        ],
-        [
-          "attarine",
-          "До обеда",
-          "30–45 мин",
-          "Второе медресе; можно выбрать одно из двух."
-        ],
-        [
-          "chouara",
-          "До обеда",
-          "30–45 мин",
-          "Красильни с террасы; цену входа согласовать заранее."
-        ],
-        [
-          "tombs",
-          "После обеда, факультативно",
-          "45–75 мин с подъёмом",
-          "Панорама медины. Закончить дальнюю прогулку к 16:30."
-        ]
-      ],
-      "food": [
-        "darhatim"
-      ],
-      "source": [
-        "T1",
-        "F2",
-        "H3",
-        "H4"
-      ]
+    "tazi": {
+      "name": "Maison Famille Tazi",
+      "day": 2,
+      "dates": "23–24.11",
+      "nights": 1,
+      "price_mad": "≈ 236 MAD",
+      "payment": "Только наличные, без предоплаты. В сумме €2 городского налога. Завтрак 24.11 включён. Приехать до 13:30 или получить от риада подтверждение более позднего заселения.",
+      "hours": "Заезд 08:30–13:30 · выезд до 12:00"
     },
-    "merzouga": {
-      "stay": "25–26 ноября · 1 ночь",
-      "why": "Пеший выход в дюны Эрг-Шебби; ночлег в посёлке.",
-      "arr": "25.11 · около 06:00–06:15, Supratours",
-      "dep": "26.11 · автобус на Тингир около 07:30; прийти к 07:00",
-      "arrival": "merzb",
-      "main": [
-        "dunes",
-        "nora"
-      ],
-      "sights": [
-        [
-          "dunes",
-          "25.11 · 15:00–18:00 ≈",
-          "2–3 ч; 5–8 км по песку",
-          "Выбрать ближний гребень, рассчитать возвращение засветло."
-        ],
-        [
-          "nora",
-          "Хамлия — только по желанию",
-          "Дополнительная поездка",
-          "Медфуна и музыка гнауа. Свежую еду и обратную машину заказать заранее."
-        ]
-      ],
-      "food": [],
-      "source": [
-        "T1",
-        "F3",
-        "H5",
-        "H6"
-      ]
+    "nomad": {
+      "name": "Guest House Nomad Life",
+      "day": 4,
+      "dates": "25–26.11",
+      "nights": 1,
+      "price_mad": "≈ 197 MAD",
+      "payment": "Только наличные, без предоплаты. Завтрак 26.11 включён. Согласовать хранение рюкзака около 06:00 25.11 и завтрак навынос к раннему автобусу 26.11.",
+      "hours": "Заезд 12:00–23:00 · выезд до 10:00"
     },
-    "todra": {
-      "stay": "26–28 ноября · 2 ночи",
-      "why": "Каньон, сады Тизги и отдельный день для горного кольца.",
-      "arr": "26.11 · автобус в Тингир около 12:00, затем grand taxi",
-      "dep": "28.11 · машина 09:45; автобус из Тингира около 12:00",
-      "arrival": "tingtaxi",
-      "main": [
-        "todra",
-        "tizgui"
-      ],
-      "sights": [
-        [
-          "todra",
-          "26.11 после заселения",
-          "45–75 мин; 2–3 км с подходами",
-          "Узкая часть ущелья туда и обратно."
-        ],
-        [
-          "tizgui",
-          "26.11 после каньона",
-          "1–1,5 ч; 3–4 км",
-          "Сады и деревня по общественным проходам."
-        ]
-      ],
-      "food": [],
-      "source": [
-        "A9",
-        "A10",
-        "A11",
-        "T1",
-        "T4",
-        "H7",
-        "H8",
-        "T1"
-      ]
+    "relax": {
+      "name": "Dar Relax Hostel, Gorges de Todra",
+      "day": 5,
+      "dates": "26–28.11",
+      "nights": 2,
+      "price_mad": "≈ 295 MAD",
+      "payment": "Только наличные, без предоплаты. Городской налог €1 за ночь входит в €27. Оба завтрака включены. Договориться о расчёте и сдаче ключа до подачи машины в 09:45 28.11.",
+      "hours": "Заезд 14:00–23:00 · выезд 10:30–11:00"
     },
-    "ait": {
-      "stay": "28–29 ноября · 1 ночь",
-      "why": "Глинобитный ксар и панорама долины; основной осмотр утром.",
-      "arr": "28.11 · около 16:00–17:00, taxi из Уарзазата",
-      "dep": "29.11 · заказанная машина около 10:30",
-      "arrival": "baraka",
-      "main": [
-        "aitksar"
-      ],
-      "sights": [
-        [
-          "aitksar",
-          "28.11 вечером, если светло",
-          "30–45 мин",
-          "Вид с противоположного берега."
-        ],
-        [
-          "aitksar",
-          "29.11 · 08:15–10:15 ≈",
-          "2 ч; 3–5 км",
-          "Общественный подход через мост, переулки, подъём к панораме. Частные дома оплачиваются отдельно."
-        ]
-      ],
-      "food": [],
-      "source": [
-        "A3",
-        "T3",
-        "H11",
-        "H12",
-        "F11"
-      ]
+    "ksarauberge": {
+      "name": "Auberge Ksar Ait Ben Haddou",
+      "day": 7,
+      "dates": "28–29.11",
+      "nights": 1,
+      "price_mad": "≈ 376 MAD",
+      "payment": "Только наличные, без предоплаты. В сумме €2 городского налога. Завтрак 29.11 включён, уточнить время подачи.",
+      "hours": "Заезд 13:00–00:00 · выезд 08:30–12:00"
     },
-    "ouarzazate": {
-      "stay": "28 и 29 ноября · пересадки без ночёвки",
-      "why": "Пересадка на Айт-Бен-Хадду и обратно; отдельная программа не обязательна.",
-      "arr": "28.11 · автобус из Тингира около 15:00",
-      "dep": "29.11 · базовый выезд около 15:00–15:30; уточнить по билету",
-      "arrival": "ouarzb",
-      "main": [
-        "taourirt"
-      ],
-      "sights": [
-        [
-          "taourirt",
-          "29.11 · только при свободном окне",
-          "45–75 мин + подходы",
-          "От Supratours 3–3,5 км в одну сторону. Если автобус около 15:00, вернуться к станции к 14:15."
-        ]
-      ],
-      "food": [],
-      "source": [
-        "T18",
-        "T3",
-        "A8",
-        "T22"
-      ]
+    "boho": {
+      "name": "Boho 27 Hostel Marrakech",
+      "day": 8,
+      "dates": "29.11–01.12",
+      "nights": 2,
+      "price_mad": "≈ 305 MAD",
+      "payment": "Без предоплаты по подтверждению. В сумме €5 городского налога. Booking.com перечисляет карты, Hostelworld указывает наличные при заселении. Попросить письменное подтверждение расчёта в MAD, отсутствия проверки карты и заезда после 20:30. В PDF часы отображаются как 00:00–00:00.",
+      "hours": "Заезд 29.11 · выезд 01.12"
     },
-    "marrakech": {
-      "stay": "29 ноября — 1 декабря · 2 ночи",
-      "why": "Один полный день: дворец, медресе, рынки и вечерняя площадь.",
-      "arr": "29.11 · около 19:30–20:30, затем petit taxi в медину",
-      "dep": "01.12 · taxi 06:15; Supratours около 07:30",
-      "arrival": "marrb",
-      "main": [
-        "bahia",
-        "benyoussef",
-        "jemaa",
-        "koutoubia"
-      ],
-      "sights": [
-        [
-          "bahia",
-          "30.11 · 09:00–10:15",
-          "1–1,5 ч; 100 MAD",
-          "Дворец и дворы."
-        ],
-        [
-          "benyoussef",
-          "30.11 · 11:00–12:00",
-          "45–60 мин; 50 MAD",
-          "Главное медресе Марракеша."
-        ],
-        [
-          "jemaa",
-          "30.11 · вечер",
-          "1–2 ч",
-          "Музыка, торговля и уличная жизнь. Фото и услуги оплачивать по согласованной цене."
-        ],
-        [
-          "koutoubia",
-          "По дороге к площади",
-          "20–30 мин",
-          "Внешний осмотр и сады."
-        ]
-      ],
-      "food": [
-        "lamine",
-        "alfassia"
-      ],
-      "source": [
-        "A5",
-        "A6",
-        "F4",
-        "F5",
-        "F6",
-        "H13",
-        "H14",
-        "T23"
-      ]
+    "hostelriad": {
+      "name": "Hostel & Riad",
+      "day": 10,
+      "dates": "01–02.12",
+      "nights": 1,
+      "price_mad": "≈ 131 MAD",
+      "payment": "Без предоплаты по подтверждению. В нём перечислены карты. Уточнить расчёт наличными MAD, утренний приём рюкзака 01.12 и выезд до 08:30 при раннем автобусе.",
+      "hours": "Заезд 15:00–23:00 · выезд 08:30–11:00"
     },
-    "essaouira": {
-      "stay": "1–2 декабря · 1 ночь",
-      "why": "Рыбацкий порт, стены над океаном и местная рыбная кухня.",
-      "arr": "01.12 · около 10:30, Supratours у Bab Marrakech",
-      "dep": "02.12 · CTM около 10:00; резерв — ранний Supratours в Марракеш",
-      "arrival": "essab",
-      "main": [
-        "essaport",
-        "skalakasbah",
-        "essabeach"
-      ],
-      "sights": [
-        [
-          "essaport",
-          "01.12 · до обеда",
-          "45–60 мин",
-          "Лодки, сети и работа порта."
-        ],
-        [
-          "skalakasbah",
-          "01.12 · после обеда",
-          "45–60 мин",
-          "Стены и пушки над Атлантикой."
-        ],
-        [
-          "essabeach",
-          "01.12 · вторая половина дня",
-          "1–1,5 ч; 3–5 км",
-          "Прогулка по бухте. Купание только при спокойном море."
-        ]
-      ],
-      "food": [
-        "khmissa",
-        "adwak"
-      ],
-      "source": [
-        "F7",
-        "F8",
-        "P7",
-        "P9",
-        "H15",
-        "H16"
-      ]
-    },
-    "casablanca": {
-      "stay": "2–3 декабря · 1 ночь",
-      "why": "Мечеть Хасана II изнутри и ночёвка перед вылетом.",
-      "arr": "02.12 · около 16:30–17:00, CTM FAR; резерв — поезд через Марракеш",
-      "dep": "03.12 · AT222 15:10 или AT220 21:55",
-      "arrival": "ctmcasa",
-      "main": [
-        "hassanmosque",
-        "habous"
-      ],
-      "sights": [
-        [
-          "hassanmosque",
-          "03.12 · сеанс 09:00",
-          "Около 1 ч; 140 MAD",
-          "Прийти к 08:30. Зимние сеансы: 09, 10, 11 и 14 часов."
-        ],
-        [
-          "habous",
-          "Только при вечернем рейсе",
-          "1–2 ч + дорога",
-          "Квартал новой медины; при вылете 15:10 пропустить."
-        ]
-      ],
-      "food": [
-        "sqala"
-      ],
-      "source": [
-        "A4",
-        "T13",
-        "T14",
-        "F9",
-        "F10",
-        "H17",
-        "H18"
-      ]
+    "ryad91": {
+      "name": "Ryad 91",
+      "day": 11,
+      "dates": "02–03.12",
+      "nights": 1,
+      "price_mad": "430,61 MAD",
+      "payment": "430,61 MAD с налогами: 392,61 MAD за номер и 38 MAD сборов. Предоплата не требуется. Завтрак 03.12 включён. В подтверждении перечислены карты, на Trip.com указаны также наличные. Подтвердить расчёт наличными MAD у риада и уточнить подачу завтрака к 08:00 или навынос.",
+      "hours": "Заезд с 14:00 · выезд до 12:00"
     }
   },
   "budget": [
     [
-      "Жильё · 10 ночей",
-      1990,
-      2700,
-      "1 Рабат + 1 Фес + 1 Мерзуга + 2 Тизги + 1 Айт + 2 Марракеш + 1 Эссуэйра + 1 Касабланка"
+      "Жильё · 6 броней в EUR",
+      1541,
+      1541,
+      "Эквивалент EUR в MAD, с указанными налогами."
+    ],
+    [
+      "Рабат · бронь через WhatsApp",
+      197,
+      208,
+      "Ориентир по цене Booking.com с городским налогом. Фактический итог уточнить у риада."
+    ],
+    [
+      "Касабланка · Ryad 91",
+      431,
+      431,
+      "Точная сумма по брони 430,61 MAD с налогами."
     ],
     [
       "Поезда, автобусы и багаж",
@@ -878,12 +1010,6 @@
       "29.11 после приезда и 01.12 перед автобусом. Резерв 50–100 MAD за машину; это не подтверждённый тариф."
     ],
     [
-      "Питание и гастрономические остановки",
-      1750,
-      3050,
-      "Питание на 12 дней и местные блюда; без алкоголя"
-    ],
-    [
       "Питьевая вода",
       100,
       170,
@@ -896,16 +1022,22 @@
       "Хасан II 140, Бахия 100, Бен-Юсеф 50 MAD; остальные по выбору"
     ],
     [
-      "Налоги жилья сверх тарифа",
-      180,
-      260,
-      "Только если не включены в подтверждённый итог; не учитывать дважды"
-    ],
-    [
       "Связь",
       80,
       150,
       "Одна SIM / пакет"
+    ],
+    [
+      "Petit taxi в Фесе",
+      20,
+      40,
+      "Вокзал → вход в медину, чтобы успеть заселиться."
+    ],
+    [
+      "Питание · 12 дней",
+      1618,
+      2610,
+      "Из разделов «Еда». Завтраки по брони и стандартное бортпитание включены. Вода на маршрут учтена отдельно."
     ],
     [
       "Резерв",
@@ -913,5 +1045,30 @@
       1000,
       "Недостающие места в taxi, перебронирование и задержки; две запланированные поездки в Марракеше уже посчитаны отдельно."
     ]
-  ]
+  ],
+  "flight": {
+    "paid_rub": 56994,
+    "segments": [
+      {
+        "number": "AT221",
+        "date": "22.11.2026",
+        "from_airport": "Москва · SVO C",
+        "to_airport": "Касабланка · CMN T2",
+        "depart": "08:20",
+        "arrive": "11:35",
+        "arrival_date": "22.11.2026"
+      },
+      {
+        "number": "AT222",
+        "date": "03.12.2026",
+        "from_airport": "Касабланка · CMN T1",
+        "to_airport": "Москва · SVO C",
+        "depart": "15:10",
+        "arrive": "00:25",
+        "arrival_date": "04.12.2026"
+      }
+    ]
+  },
+  "eur_mad": 10.94,
+  "updated": "18.11.2026"
 }

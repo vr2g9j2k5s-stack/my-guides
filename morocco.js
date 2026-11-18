@@ -120,12 +120,12 @@ document.addEventListener('DOMContentLoaded', () => {
       stops.forEach((p,i) => {
         const name = i === 0 ? 'CMN · прилёт' : p.name;
         L.marker([p.lat,p.lon], {icon:L.divIcon({className:'',html:'<span class="stop-badge">' + (i+1) + '</span>',iconSize:[28,28],iconAnchor:[14,14]})})
-          .addTo(markers).bindTooltip(esc(name)).bindPopup('<b>' + esc(name) + '</b><p><a href="morocco-' + p.city + '.html">Осмотр, ночлег и еда →</a></p>');
+          .addTo(markers).bindTooltip(esc(name)).bindPopup('<b>' + esc(name) + '</b><p><a href="morocco-day-' + String(p.day).padStart(2, '0') + '.html">К странице дня →</a></p>');
       });
       return;
     }
     const colors = {sleep:'#2e725c',transport:'#326c9d',sight:'#9a6e25',food:'#b95731',money:'#815a9b'};
-    selected.forEach(p => L.circleMarker([p.lat,p.lon], {radius:6,color:colors[p.category],fillColor:colors[p.category],fillOpacity:.85,weight:2,dashArray:p.precision.includes('ориентир')?'3,3':null})
+    selected.filter(p => p.lat != null && p.lon != null).forEach(p => L.circleMarker([p.lat,p.lon], {radius:6,color:colors[p.category],fillColor:colors[p.category],fillOpacity:.85,weight:2,dashArray:p.precision.includes('ориентир')?'3,3':null})
       .addTo(markers).bindTooltip(esc(p.name)).bindPopup('<b>' + esc(p.name) + '</b><p>' + esc(p.address || p.description) + '</p>' +
         (p.precision.includes('ориентир') ? '<p><small>Ориентир — уточнить вход или посадку на месте.</small></p>' : '') +
         '<a href="' + esc(p.google_maps) + '" target="_blank" rel="noopener noreferrer">Google Maps ↗</a>'));
