@@ -612,5 +612,15 @@ https://www.google.com/maps/search/?api=1&amp;query=Le+Pain+Bul+10+Av.+Amir+Moul
         <coordinates>-6.8349647,34.0174732,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>CTM Maârif · 22 rue Georges Sand</name>
+      <description>Касабланка
+22 rue Georges Sand, Casablanca
+CTM из Эссуэйры в 10:00, прибытие в 16:00 по варианту со скриншота. Сверить адрес в билете. До Ryad 91 удобнее на taxi.
+https://www.google.com/maps/search/?api=1&amp;query=CTM+Maarif+22+rue+Georges+Sand+Casablanca</description>
+      <Point>
+        <coordinates>-7.63623,33.57677,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

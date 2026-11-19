@@ -852,5 +852,19 @@
     "coordinate_source": "https://restaurantguru.com/Patisserie-Boulangerie-Salon-de-the-Le-Pain-Bul-Rabat",
     "precision": "Координаты из карточки заведения",
     "google_maps": "https://www.google.com/maps/search/?api=1&query=Le+Pain+Bul+10+Av.+Amir+Moulay+Abdellah+Rabat"
+  },
+  {
+    "id": "CA05",
+    "key": "ctmmaarif",
+    "name": "CTM Maârif · 22 rue Georges Sand",
+    "city": "casablanca",
+    "category": "transport",
+    "lat": 33.57677,
+    "lon": -7.63623,
+    "address": "22 rue Georges Sand, Casablanca",
+    "description": "CTM из Эссуэйры в 10:00, прибытие в 16:00 по варианту со скриншота. Сверить адрес в билете. До Ryad 91 удобнее на taxi.",
+    "coordinate_source": "https://mapcarta.com/N4352882592",
+    "precision": "точка объекта",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=CTM+Maarif+22+rue+Georges+Sand+Casablanca"
   }
 ]
